@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="A&E Mundo" tvg-logo="	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s", A&E Mundo | Internacional
+#EXTINF:-1 tvg-id="1" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png", A&E Mundo | Internacional
 http://177.93.49.131:8000/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg", AXN | Internacional
 http://186.148.178.10:9092/play/a07s/index.m3u8 
