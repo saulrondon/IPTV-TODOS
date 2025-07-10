@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="A&E Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png", A&E Mundo | Internacional
 http://177.93.49.131:8000/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN | Internacional
+#EXTINF:-1 tvg-id="2" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/610/388/png-transparent-axn-2015-hd-logo.png", AXN | Internacional
 http://186.148.178.10:9092/play/a07s/index.m3u8 
 #EXTINF:-1 tvg-id="3" tvg-name="Animal Planet" tvg-logo="https://wallpapers.com/images/featured/animal-planet-ri51t5mqtu6r5w1e.jpg", Animal Planet | Internacional
 http://186.148.178.10:9092/play/a06b/index.m3u8
