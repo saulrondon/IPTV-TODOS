@@ -625,7 +625,7 @@ http://38.224.230.122:8000/play/a0dw/index.m3u8
 #EXTINF:-1 tvg-id="302" tvg-name="TNT Novelas" tvg-logo="", TNT Novelas
 http://38.7.204.232:8010/play/a2n7/index.m3u8
 #EXTINF:-1 tvg-id="303" tvg-name="TNT" tvg-logo="", TNT
-http://103.111.40.242:9999/play/a02w/index.m3u8 
+http://177.234.230.206:8011/play/a01c/index.m3u8 
 #EXTINF:-1 tvg-id="304" tvg-name="TNT Sports" tvg-logo="", TNT Sports
 http://45.4.1.130:5783/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="305" tvg-name="TNT Sports Premium" tvg-logo="", TNT Sports Premium
