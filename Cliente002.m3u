@@ -55,7 +55,7 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="25" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 | Internacional
 http://177.234.230.206:8011/play/a0fi/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CHV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg", CHV  | Internacional
-http://38.7.204.232:8010/play/a2ke/index.m3u8
+http://45.71.38.3:8010/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes | CL
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="28" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1024px-CNN_Chile_logo_2017.svg.png", CNN Chile
