@@ -5,7 +5,25 @@ http://177.10.184.193:8000/play/a0cz/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg", AXN | Internacional
 http://177.10.184.193:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet | Internacional
-http://186.148.178.10:9092/play/a06b/index.m3u8
+http://177.10.184.193:8000/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALFA CANAL 29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieDrqEJ0H7iousvtakC-LzPNg7FLSOs8Sew&s", ALFA CANAL 29 | Internacional
+http://177.10.184.193:8000/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png", AMC | Internacional
+http://177.10.184.193:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ click" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest/scale-to-width-down/230?cb=20230630203519", AZ click | Internacional
+http://177.10.184.193:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3-91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_antena_3.png", Antena 3-91 | Internacional
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 7- RD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png/revision/latest/scale-to-width-down/200?cb=20201021020612&path-prefix=es", Antena 7- RD | Internacional
+http://177.10.184.193:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png", Atres Series | Internacional
+http://177.10.184.193:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TVAzteca_Coraz_n_Logo_2023-present.svg/revision/latest/scale-to-width-down/225?cb=20230613213905", Azcorazon | Internacional
+http://177.10.184.193:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional" tvg-logo="//upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png", Azteca Internacional | Internacional
+http://177.10.184.193:8000/play/a04t/index.m3u8
+
+
 #EXTINF:-1 tvg-id="4" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Azteca72024.png", Azteca 7 | Internacional
 http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Canal_13_2021.svg", Azteca Guatemala | Internacional
@@ -88,7 +106,10 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #---B---
 #EXTINF:-1 tvg-id="20" tvg-name="BabyFirst" tvg-logo="https://e7.pngegg.com/pngimages/762/268/png-clipart-babyfirsttv-television-channel-babyfirst-tv-learn-colors-abcs-rhymes-more-television-text.png", BabyFirst | Internacional
-http://38.7.204.232:8010/play/a2q3/index.m3u8
+http://177.10.184.193:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Babytv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/NewBabyTVLogo.png/revision/latest/scale-to-width-down/300?cb=20251109165906", Babytv | Internacional
+http://177.10.184.193:8000/play/a02j/index.m3u8
+
 #EXTINF:-1 tvg-id="21" tvg-name="Bio Bio TV" tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png", Bio Bio TV | CL
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-name="Bombi TV" tvg-logo="https://cdn.m3u.cl/logo/1615_Bombi_TV.png", Bombi TV | CL
@@ -117,15 +138,15 @@ https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="28" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1024px-CNN_Chile_logo_2017.svg.png", CNN Chile
 http://45.4.1.130:5783/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="CNN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN Español
-http://38.224.230.122:8000/play/a05y/index.m3u8
+http://177.10.184.193:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="Canal Claro" tvg-logo="https://i.imgur.com/Kgjfd3J.png", Canal Claro
 http://38.224.230.122:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Canal de Las Estrellas" tvg-logo="https://cdn.m3u.cl/logo/canal_de_las_estrellas.png", Canal de Las Estrellas
-http://179.61.31.142:8000/play/a0i5/index.m3u8
+http://177.10.184.193:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-http://38.224.230.122:8000/play/a0f2/index.m3u8
+http://177.10.184.193:8000/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="CineCanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png", CineCanal
-http://177.234.230.206:8011/play/a0c4/index.m3u8
+http://177.10.184.193:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1920px-Cinemax_%28Yellow%29.svg.png", CINEMAX
 http://45.4.1.130:5783/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png", Canal RCN | Internacional
@@ -902,6 +923,15 @@ https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UC
 https://tectv.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="348" tvg-name="TV Canal 5" tvg-logo="https://cdn.m3u.cl/logo/1469_TV_Canal_5.png", TV Canal 5 | CL
 https://vdochile.com:3317/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="348" tvg-name="CANAL 5 EL LIDER" tvg-logo="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/500px-Canal_5_HN_logo_2019.png", CANAL 5 EL LIDER | Internacional
+http://177.10.184.193:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="CANAL 5 MEXICO" tvg-logo="//upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png", CANAL 5 MEXICO | Internacional
+http://177.10.184.193:8000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="CANAL 6" tvg-logo="//upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg", CANAL 6 | Internacional
+http://177.10.184.193:8000/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="CANAL 8" tvg-logo="", CANAL 8 | Internacional
+http://177.10.184.193:8000/play/a0fh/index.m3u8
+
 #EXTINF:-1 tvg-id="349" tvg-name="TVM" tvg-logo="https://cdn.m3u.cl/logo/1293_TVM.png", TVM | CL
 https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="350" tvg-name="T-Vinet" tvg-logo="https://i.imgur.com/KisHIpA.png", T-Vinet | CL
