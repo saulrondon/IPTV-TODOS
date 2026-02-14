@@ -127,7 +127,7 @@ https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #---C---
 #EXTINF:-1 tvg-id="24" tvg-name="Canal 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", Canal 24 Horas | CL
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+http://190.151.80.242:9990/play/a0kn/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Canal 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/", Canal 13 | Internacional
 http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CHV" tvg-logo="https://i.imgur.com/PRijvR0.png", CHV  | CL
@@ -135,7 +135,7 @@ http://8.243.64.201:2025/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes | CL
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="28" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1024px-CNN_Chile_logo_2017.svg.png", CNN Chile
-http://45.4.1.130:5783/play/a01r/index.m3u8
+http://190.151.80.242:9990/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="CNN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png", CNN Español
 http://177.10.184.193:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="Canal Claro" tvg-logo="https://i.imgur.com/Kgjfd3J.png", Canal Claro
@@ -955,7 +955,7 @@ http://177.10.184.193:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="308" tvg-name="TVE Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_TVE_2021.svg", TVE Europa | Internacional
 http://177.10.184.193:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪ | CL
-http://38.7.204.232:8010/play/a2og/index.m3u8
+http://190.151.80.242:9990/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="Telemundo" tvg-logo="", Telemundo | Internacional
 http://177.10.184.193:8000/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="311" tvg-name="TLC" tvg-logo="", TLC
