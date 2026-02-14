@@ -10,6 +10,8 @@ http://177.10.184.193:8000/play/a0cw/index.m3u8
 http://177.10.184.193:8000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png", AMC | Internacional
 http://177.10.184.193:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png", AMC Series | Internacional
+http://177.10.184.193:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZ click" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TV_Azteca_Clic_2023_Official.svg/revision/latest/scale-to-width-down/230?cb=20230630203519", AZ click | Internacional
 http://177.10.184.193:8000/play/a0d6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3-91" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_antena_3.png", Antena 3-91 | Internacional
@@ -129,7 +131,7 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="25" tvg-name="Canal 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/", Canal 13 | Internacional
 http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CHV" tvg-logo="https://i.imgur.com/PRijvR0.png", CHV  | CL
-http://45.71.38.3:8010/play/a00u/index.m3u8
+http://8.243.64.201:2025/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes | CL
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="28" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1024px-CNN_Chile_logo_2017.svg.png", CNN Chile
@@ -323,13 +325,13 @@ http://177.10.184.193:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="92" tvg-name="ESPN SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png", ESPN SUR
 http://177.10.184.193:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="Enlace" tvg-logo="", Enlace
-http://177.234.230.206:8011/play/a091/index.m3u8
+http://177.10.184.193:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Enlace Juvenil" tvg-logo="", Enlace Juvenil
 http://177.234.230.206:8011/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="EsneTV" tvg-logo="", EsneTV
 http://45.4.1.130:5783/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="El Gourmet" tvg-logo="", El Gourmet
-http://190.52.105.146:8000/play/a0az/index.m3u8
+http://177.10.184.193:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="EnerGeek" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png", EnerGeek | CL
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png", EnerGeek Radio | CL
@@ -384,17 +386,24 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBENEZER" tvg-logo="", EBENEZER | Internacional
 http://177.10.184.193:8000/play/a0c4/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" tvg-logo="", Exa TV | Internacional
+http://177.10.184.193:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa" tvg-logo="", Europa | Internacional
+http://177.10.184.193:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="", EWTN | Internacional
+http://177.10.184.193:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="", EURO Channel | Internacional
+http://177.10.184.193:8000/play/a04a/index.m3u8
 #---F---
-#EXTINF:-1 tvg-id="116" tvg-name="France 24 Español" tvg-logo="", France 24 Español
+#EXTINF:-1 tvg-id="116" tvg-name="France 24 Español" tvg-logo="", France 24 Español | Internacional
 http://38.224.230.122:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="FX" tvg-logo="", FX
-http://38.7.204.232:8010/play/a2p3/index.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="Fox Sports" tvg-logo="", Fox Sports
+#EXTINF:-1 tvg-id="117" tvg-name="FX" tvg-logo="", FX | Internacional
+http://177.10.184.193:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="Fox Sports" tvg-logo="", Fox Sports | Internacional
 http://181.10.123.154:14000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="Fox Sports 2" tvg-logo="", Fox Sports 2
+#EXTINF:-1 tvg-id="119" tvg-name="Fox Sports 2" tvg-logo="", Fox Sports 2 | Internacional
 http://181.10.123.154:14000/play/a05c/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="Fox Sports 3" tvg-logo="", Fox Sports 3
+#EXTINF:-1 tvg-id="120" tvg-name="Fox Sports 3" tvg-logo="", Fox Sports 3 | Internacional
 http://181.10.123.154:14000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="Frecuencia Cultural" tvg-logo="https://cdn.m3u.cl/logo/1682_Frecuencia_Cultural.png", Frecuencia Cultural ✪ | CL
 https://v2.tustreaming.cl/frecuenciacultural/index.m3u8?PlaylistM3UCL
@@ -406,6 +415,16 @@ https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="FGTV" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png", FGTV | South Korea
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FGTV" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png", FGTV | South Korea
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & arts" tvg-logo="", Film & arts | Internacional
+http://177.10.184.193:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fiesta de Milagros tv" tvg-logo="", Fiesta de Milagros tv | Internacional
+http://177.10.184.193:8000/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" tvg-logo="", FUTV HD CR | Internacional
+http://177.10.184.193:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY TV -100" tvg-logo="", FAMILY TV -100 | Internacional
+http://177.10.184.193:8000/play/a0by/index.m3u8
 #---G---
 #EXTINF:-1 tvg-id="125" tvg-name="GolTV" tvg-logo="", GolTV
 http://177.234.230.206:8011/play/a01s/index.m3u8
@@ -429,29 +448,37 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gugbang TV" tvg-logo="https://i.imgur.com/f1tz5fg.png", Gugbang TV | South Korea
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="", Golf Channel | Internacional
+http://177.10.184.193:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="", Golden | Internacional
+http://177.10.184.193:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere" tvg-logo="", Golden Premiere | Internacional
+http://177.10.184.193:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2" tvg-logo="", Golden Premiere 2 | Internacional
+http://177.10.184.193:8000/play/a02v/index.m3u8
 #---H---
-#EXTINF:-1 tvg-id="129" tvg-name="HBO" tvg-logo="", HBO
-http://38.7.204.232:8010/play/a2n9/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="HBO 2" tvg-logo="", HBO 2
-http://38.224.230.122:8000/play/a0f4/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="HBO Family" tvg-logo="", HBO Family
-http://38.224.230.122:8000/play/a0f6/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="HBO Plus" tvg-logo="", HBO Plus
-http://38.224.230.122:8000/play/a0f5/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="HBO XTREME" tvg-logo="", HBO XTREME
+#EXTINF:-1 tvg-id="129" tvg-name="HBO" tvg-logo="", HBO | Internacional
+http://177.10.184.193:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="HBO 2" tvg-logo="", HBO 2 | Internacional
+http://177.10.184.193:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="HBO Family" tvg-logo="", HBO Family | Internacional
+http://177.10.184.193:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="HBO Plus" tvg-logo="", HBO Plus | Internacional
+http://177.10.184.193:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="HBO XTREME" tvg-logo="", HBO XTREME | Internacional
 http://38.7.204.232:8010/play/a2ox/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="HBO MUNDI" tvg-logo="", HBO MUNDI
+#EXTINF:-1 tvg-id="134" tvg-name="HBO MUNDI" tvg-logo="", HBO MUNDI | Internacional
 http://38.224.230.122:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="HBO POP" tvg-logo="", HBO POP
+#EXTINF:-1 tvg-id="135" tvg-name="HBO POP" tvg-logo="", HBO POP | Internacional
 http://38.7.204.232:8010/play/a2ol/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="HBO Signature" tvg-logo="", HBO Signature
+#EXTINF:-1 tvg-id="136" tvg-name="HBO Signature" tvg-logo="", HBO Signature | Internacional
 http://177.234.230.206:8011/play/a0hm/index.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="History Channel" tvg-logo="", History Channel
-http://38.7.204.232:8010/play/a2nh/index.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="HISTORY 2" tvg-logo="", HISTORY 2
-http://38.224.230.122:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="Home & Health" tvg-logo="", Home & Health
-http://38.224.230.122:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="History Channel" tvg-logo="", History Channel | Internacional
+http://177.10.184.193:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="138" tvg-name="HISTORY 2" tvg-logo="", HISTORY 2 | Internacional
+http://177.10.184.193:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-name="Home & Health" tvg-logo="", Home & Health | Internacional
+http://177.10.184.193:8000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="HD Radio" tvg-logo="https://cdn.m3u.cl/logo/1677_HD_Radio.png", HD Radio | CL
 https://vdo.bitsur.cl:3029/live/hdradiolive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141" tvg-name="HiperTV" tvg-logo="https://cdn.m3u.cl/logo/432_HiperTV.png", HiperTV | CL
@@ -468,6 +495,14 @@ https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="https://i.imgur.com/LB2vmMt.png", Hope Channel | Filipinas
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home Garden Latino" tvg-logo="", Home Garden Latino | Internacional
+http://177.10.184.193:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="", HTV | Internacional
+http://177.10.184.193:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV" tvg-logo="", HOLA! TV | Internacional
+http://177.10.184.193:8000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HCH - HON" tvg-logo="", HCH - HON | Internacional
+http://177.10.184.193:8000/play/a03b/index.m3u8
 #---I---
 #EXTINF:-1 tvg-id="146" tvg-name="Interactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1670_Interactiva_TV.png", Interactiva TV | CL
 https://unlimited2-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u8?PlaylistM3UCL
@@ -484,6 +519,8 @@ https://5eaccbab48461.streamlock.net:1936/8256/8256/playlist.m3u8?PlaylistM3UCL
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 tvg-id="" tvg-name="JORX-DTV" tvg-logo="https://i.imgur.com/dUn2GRn.png", JORX-DTV | Japan
 https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JUNCO TV" tvg-logo="", JUNCO TV | Internacional
+http://177.10.184.193:8000/play/a0ev/index.m3u8
 #---K---
 #EXTINF:-1 tvg-id="151" tvg-name="Kanade TV" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png", Kanade TV ✪ | CL
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
@@ -499,7 +536,7 @@ https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png", La Red | CL
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Lifetime" tvg-logo="", Lifetime
-http://38.7.204.232:8010/play/a2gy/index.m3u8
+http://177.10.184.193:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="Latina Network TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3782-294x165-FFFFFF.jpg", Latina Network TV | CL
 https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Latinos TV" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png", Latinos TV ✪ | CL
@@ -532,6 +569,12 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lotte OneTV" tvg-logo="https://i.imgur.com/bXe7tYE.png", Lotte OneTV | South Korea
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latin America Sport" tvg-logo="", Latin America Sport | Internacional
+http://177.10.184.193:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" tvg-logo="", La voz de Maria | Internacional
+http://177.10.184.193:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LTV" tvg-logo="", LTV | Internacional
+http://177.10.184.193:8000/play/a0fj/index.m3u8
 #---M---
 #EXTINF:-1 tvg-id="168" tvg-name="MTV" tvg-logo="", MTV | Internacional
 http://38.7.204.232:8010/play/a2li/index.m3u8
@@ -591,15 +634,21 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MYX" tvg-logo="", MYX | Filipinas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="", Multipremier | Internacional
+http://177.10.184.193:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="", Multicinema | Internacional
+http://177.10.184.193:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="", MEGA TV | Internacional
+http://177.10.184.193:8000/play/a0fm/index.m3u8
 #---N---
 #EXTINF:-1 tvg-id="187" tvg-name="NTV" tvg-logo="https://i.imgur.com/NnkSyta.png", NTV | CL
 http://45.4.1.130:5783/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="188" tvg-name="Nat Geo" tvg-logo="", Nat Geo
-http://38.7.204.232:8010/play/a2ni/index.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="Nick Jr" tvg-logo="", Nick Jr
+#EXTINF:-1 tvg-id="188" tvg-name="Nat Geo" tvg-logo="", Nat Geo | Internacional
+http://177.10.184.193:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="Nick Jr" tvg-logo="", Nick Jr | Internacional
 http://45.4.1.130:5783/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="190" tvg-name="Nickelodeon" tvg-logo="", Nickelodeon
-http://177.234.230.206:8011/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="Nickelodeon" tvg-logo="", Nickelodeon | Internacional
+http://8.243.64.201:2025/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="Nick Music" tvg-logo="", Nick Music | Internacional
 http://177.234.230.206:8011/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="192" tvg-name="Nexovision" tvg-logo="https://cdn.m3u.cl/logo/1451_Nexovision.png", Nexovision | CL
@@ -620,6 +669,8 @@ https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png", NHK BS | Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="", National Geographic | Internacional
+http://177.10.184.193:8000/play/a03n/index.m3u8
 #---Ñ---
 #EXTINF:-1 tvg-id="196" tvg-name="Ñublevision" tvg-logo="https://i.imgur.com/nkQyR1X.png", Ñublevision | CL
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8?PlaylistM3UCL
@@ -677,12 +728,16 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png", Pet Club TV | Hong Kong
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patepluma" tvg-logo="", Patepluma | Internacional
+http://177.10.184.193:8000/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="", Pasiones | Internacional
+http://177.10.184.193:8000/play/a0a6/index.m3u8
 #---Q---
 #EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="https://i.imgur.com/6TWUVrh.png", QVC Japan | Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #---R---
-#EXTINF:-1 tvg-id="221" tvg-name="RCN Novelas" tvg-logo="https://cdn.m3u.cl/logo/rcn_novelas.png", RCN Novelas
-http://38.224.230.122:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="RCN Novelas" tvg-logo="https://cdn.m3u.cl/logo/rcn_novelas.png", RCN Novelas | Internacional
+http://177.10.184.193:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="222" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="223" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 ✪ | CL
@@ -803,15 +858,19 @@ https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="RUTC TV" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg", RUTC TV | South Korea
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT EN ESPAÑOL" tvg-logo="", RT EN ESPAÑOL | Internacioanl
+http://177.10.184.193:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="", RHEMA TV | Internacioanl
+http://177.10.184.193:8000/play/a05y/index.m3u8
 #---S---
-#EXTINF:-1 tvg-id="281" tvg-name="Sony" tvg-logo="", Sony
-http://38.224.230.122:8000/play/a0gi/index.m3u8
-#EXTINF:-1 tvg-id="282" tvg-name="Sony Movies " tvg-logo="", Sony Movies 
-http://38.224.230.122:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-id="281" tvg-name="Sony" tvg-logo="", Sony | Internacioanl
+http://177.10.184.193:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="282" tvg-name="Sony Movies " tvg-logo="", Sony Movies | Internacioanl
+http://177.10.184.193:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-id="283" tvg-name="Space" tvg-logo="", Space
-http://103.111.40.242:9999/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Star TVE
-http://38.224.230.122:8000/play/a0e9/index.m3u8
+http://177.10.184.193:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Star TVE | Internacioanl
+http://177.10.184.193:8000/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-id="285" tvg-name="Suyai TV" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png", Suyai TV ✪ | CL
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL
 #EXTINF:-1 tvg-id="286" tvg-name="Suyai Radio" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png", Suyai Radio ✪ | CL
@@ -860,31 +919,49 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.postimg.cc/wMqPSBfX/shopchannel.png", Shop Channel | Japan
 https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="", Sun Channel | Internacional
+http://177.10.184.193:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="", Sembrador | Internacional
+http://177.10.184.193:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUYAPA TV" tvg-logo="", SUYAPA TV | Internacional
+http://177.10.184.193:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SULA TV" tvg-logo="", SULA TV | Internacional
+http://177.10.184.193:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SULA TV" tvg-logo="", SULA TV | Internacional
+http://177.10.184.193:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="", STAR CHANNEL | Internacional
+http://177.10.184.193:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ST VISION" tvg-logo="", ST VISION | Internacional
+http://177.10.184.193:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LA LIGA" tvg-logo="", SKY SPORT LA LIGA | Internacional
+http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="", SEMILLITAS | Internacional
+http://177.10.184.193:8000/play/a03g/index.m3u8
 #---T---
 #EXTINF:-1 tvg-id="301" tvg-name="Teen Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg", Teen Nick | Internacional
 http://38.224.230.122:8000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-id="302" tvg-name="TNT Novelas" tvg-logo="", TNT Novelas
+#EXTINF:-1 tvg-id="302" tvg-name="TNT Novelas" tvg-logo="", TNT Novelas | Internacional
 http://38.7.204.232:8010/play/a2n7/index.m3u8
-#EXTINF:-1 tvg-id="303" tvg-name="TNT" tvg-logo="", TNT
-http://177.234.230.206:8011/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="TNT Sports" tvg-logo="", TNT Sports
+#EXTINF:-1 tvg-id="303" tvg-name="TNT" tvg-logo="", TNT | Internacional
+http://8.243.64.201:2025/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="TNT Sports" tvg-logo="", TNT Sports | Internacional
 http://45.4.1.130:5783/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="305" tvg-name="TNT Sports Premium" tvg-logo="", TNT Sports Premium
+#EXTINF:-1 tvg-id="305" tvg-name="TNT Sports Premium" tvg-logo="", TNT Sports Premium | Internacional
 http://177.234.230.206:8011/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="306" tvg-name="TNT Series" tvg-logo="", TNT Novelas
-http://177.234.230.206:8011/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="307" tvg-name="TCM" tvg-logo="", TCM
-http://45.4.1.130:5783/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="TVE Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_TVE_2021.svg", TVE Europa
-http://38.224.230.122:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="TNT Series" tvg-logo="", TNT Novelas | Internacional
+http://177.10.184.193:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="TCM" tvg-logo="", TCM | Internacional
+http://177.10.184.193:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="TVE Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_TVE_2021.svg", TVE Europa | Internacional
+http://177.10.184.193:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN ✪ | CL
 http://38.7.204.232:8010/play/a2og/index.m3u8
-#EXTINF:-1 tvg-id="310" tvg-name="Telemundo" tvg-logo="", Telemundo
-http://38.224.230.122:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="Telemundo" tvg-logo="", Telemundo | Internacional
+http://177.10.184.193:8000/play/a0d1/index.m3u8
 #EXTINF:-1 tvg-id="311" tvg-name="TLC" tvg-logo="", TLC
-http://38.224.230.122:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="312" tvg-name="TyC Sports", TyC Sports
-http://177.234.230.206:8011/play/a09o/index.m3u8
+http://177.10.184.193:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="312" tvg-name="TyC Sports", TyC Sports | Internacional
+http://177.10.184.193:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="313" tvg-name="TV Bajo Cero" tvg-logo="https://cdn.m3u.cl/logo/1676_TV_Bajo_Cero.png", TV Bajo Cero ✪ | CL
 https://tv.arkeo.cl:1936/tvbajocero/tvbajocero/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314" tvg-name="TV+" tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png", TV+ | CL
@@ -987,23 +1064,41 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleRadyo" tvg-logo="", TeleRadyo | Filipinas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="", Tru TV | Internacional
+http://177.10.184.193:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="", Tooncast | Internacional
+http://177.10.184.193:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-logo="", Tigo Sports | Internacional
+http://177.10.184.193:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="", Teleuniverso - RD | Internacional
+http://177.10.184.193:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="", TUDN USA | Internacional
+http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="", TSI | Internacional
+http://177.10.184.193:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="", TELENOVELAS | Internacional
+http://177.10.184.193:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7 Y 4" tvg-logo="", TELECADENA 7 Y 4 | Internacional
+http://177.10.184.193:8000/play/a0fk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE PROGRESO- 68" tvg-logo="", TELE PROGRESO- 68 | Internacional
+http://177.10.184.193:8000/play/a0bv/index.m3u8
 #---U---
 #EXTINF:-1 tvg-id="359" tvg-name="USA" tvg-logo="", USA SD
 http://103.111.40.242:9999/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="Universal" tvg-logo="", Universal
-http://38.7.204.232:8010/play/a2nn/index.m3u8
-#EXTINF:-1 tvg-id="361" tvg-name="Universal Cinema" tvg-logo="", Universal Cinema
-http://38.224.230.122:8000/play/a0de/index.m3u8
-#EXTINF:-1 tvg-id="362" tvg-name="Universal Comedy" tvg-logo="", Universal Comedy
-http://45.4.1.130:5783/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="363" tvg-name="Universal Premiere" tvg-logo="", Universal Premiere
-http://38.224.230.122:8000/play/a0iq/index.m3u8
-#EXTINF:-1 tvg-id="364" tvg-name="Universal Studio" tvg-logo="", Universal Studio
+#EXTINF:-1 tvg-id="360" tvg-name="Universal" tvg-logo="", Universal | Internacional
+http://177.10.184.193:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="361" tvg-name="Universal Cinema" tvg-logo="", Universal Cinema | Internacional
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="362" tvg-name="Universal Comedy" tvg-logo="", Universal Comedy | Internacional
+http://177.10.184.193:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="Universal Premiere" tvg-logo="", Universal Premiere | Internacional
+http://177.10.184.193:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="364" tvg-name="Universal Studio" tvg-logo="", Universal Studio | Internacional
 http://38.224.230.122:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-id="365" tvg-name="Universal CRIME" tvg-logo="", Universal CRIME
-http://38.224.230.122:8000/play/a0it/index.m3u8
-#EXTINF:-1 tvg-id="366" tvg-name="Universal REALITY" tvg-logo="", Universal REALITY
-http://38.224.230.122:8000/play/a0is/index.m3u8
+#EXTINF:-1 tvg-id="365" tvg-name="Universal CRIME" tvg-logo="", Universal CRIME | Internacional
+http://177.10.184.193:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="366" tvg-name="Universal REALITY" tvg-logo="", Universal REALITY | Internacional
+http://177.10.184.193:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="367" tvg-name="Unetev" tvg-logo="https://cdn.m3u.cl/logo/1314_Unetev.png", Unetev | CL
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="368" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV | CL
@@ -1032,7 +1127,10 @@ https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
 http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal VTV HND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png", Canal VTV HND | Internacional
 http://177.10.184.193:8000/play/a05e/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="", Univision | Internacional
+http://177.10.184.193:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNE TV" tvg-logo="", UNE TV | Internacional
+http://177.10.184.193:8000/play/a0fg/index.m3u8
 #---V---
 #EXTINF:-1 tvg-id="379" tvg-name="ViaX" tvg-logo="https://cdn.m3u.cl/logo/viax.png", ViaX
 http://45.4.1.130:5783/play/a00q/index.m3u8
