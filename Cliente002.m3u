@@ -98,6 +98,40 @@ http://177.10.184.193:8000/play/a0a2/index.m3u8
 http://45.4.1.130:5783/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="", Nickelodeon | Internacional
 http://8.243.64.201:2025/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="", Sony | Internacional
+http://177.10.184.193:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies " tvg-logo="", Sony Movies | Internacional
+http://177.10.184.193:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="", Space | Internacional
+http://177.10.184.193:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="", STAR CHANNEL | Internacional
+http://177.10.184.193:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="", TNT | Internacional
+http://8.243.64.201:2025/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="", TNT Sports | Internacional
+http://45.4.1.130:5783/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="", TNT Series | Internacional
+http://177.10.184.193:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="", TCM | Internacional
+http://177.10.184.193:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="", TLC | Internacional
+http://177.10.184.193:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports", TyC Sports | Internacional
+http://177.10.184.193:8000/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="", Tooncast | Internacional
+http://177.10.184.193:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="", Universal | Internacional
+http://177.10.184.193:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="", Universal Cinema | Internacional
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="", Universal Comedy | Internacional
+http://177.10.184.193:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="", Universal Premiere | Internacional
+http://177.10.184.193:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal CRIME" tvg-logo="", Universal CRIME | Internacional
+http://177.10.184.193:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal REALITY" tvg-logo="", Universal REALITY | Internacional
+http://177.10.184.193:8000/play/a09v/index.m3u8
 
 
 
@@ -317,11 +351,342 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?Playlis
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Ñuble RVT" tvg-logo="https://graph.facebook.com/RTVNUBLE/picture?width=800&height=800", Ñuble RVT | Chile
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Omega Radio" tvg-logo="https://cdn.m3u.cl/logo/1671_Omega_Radio.png", Omega Radio | Chile
+https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Onda Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1005_Onda_Radio_TV.png", Onda Radio TV | Chile
+https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Osorno TV+" tvg-logo="https://cdn.m3u.cl/logo/360_Osorno_TV_.png", Osorno TV+ | Chile
+https://videostream.chileservidores.com:8081/osornotv/tracks-v13u8a1/mono.m
+#EXTINF:-1 tvg-id="" tvg-name="PRIDEtv Latam" tvg-logo="https://neotv.cl/img/pridetv-512.png", PRIDEtv Latam | Chile
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV | Chile
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png", Parentesis TV | Chile
+https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Preludio TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1672_Preludio_TV_Senal_2.png", Preludio TV Señal 2 | Chile
+https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TeleZeta Tropical" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png", TeleZeta Tropical | Chile
+https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Pichilemu TV" tvg-logo="https://i.imgur.com/eaJVCwM.png", Pichilemu TV | Chile
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Puranoticia TV" tvg-logo="https://i.imgur.com/NklUi6Y.png", Puranoticia TV | Chile
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Puerta Norte" tvg-logo="https://cdn.m3u.cl/logo/313_Puerta_Norte.png", Puerta Norte | Chile
+https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Pacifico Television" tvg-logo="https://pacificotelevisionhd.cl/wp-content/uploads/2024/03/pac.television-400-e1709484356445.jpg", Pacifico Television | Chile
+https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Pucon TV" tvg-logo="https://i.imgur.com/nO4cV3E.png", Pucon TV | Chile
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="PinguinoTV" tvg-logo="https://cdn.m3u.cl/logo/373_PinguinoTV.png", PinguinoTV | Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Patagonia Radio TV" tvg-logo="https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png", Patagonia Radio TV | Chile
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Preludio TV" tvg-logo="https://cdn.m3u.cl/logo/407_Preludio_TV.png", Preludio TV | Chile
+https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Pauta TV | Chile
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png", Pudahuel FM | Chile
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Portal Foxmix Chile" tvg-logo="https://graph.facebook.com/portalfoxmix/picture?width=800&height=800", Portal Foxmix Chile | Chile
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | Chile
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | Chile
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | Chile
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | Chile
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fin Del Mundo TV" tvg-logo="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png", Radio Fin Del Mundo TV | Chile
+https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="RitoqueFM TV" tvg-logo="https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png", RitoqueFM TV | Chile
+https://v2.tustreaming.cl/unetev/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Amiga Vallenar" tvg-logo="https://cdn.m3u.cl/logo/1675_Radio_Amiga_Vallenar.png", Radio Amiga Vallenar | Chile
+https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Raices Arabes TV" tvg-logo="https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png", Raices Arabes TV | Chile
+https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="RTC Television" tvg-logo="https://www.rtctelevision.cl/images/logortc.png", RTC Television | Chile
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="RialTv" tvg-logo="https://cdn.m3u.cl/logo/1599_RialTv.png", RialTv | Chile
+https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Graneros TV" tvg-logo="https://cdn.m3u.cl/logo/1486_Radio_Graneros_TV.png", Radio Graneros TV | Chile
+https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png", RTV | Chile
+https://eu1.servers10.com:8081/8162/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Red Vision Television" tvg-logo="https://cdn.m3u.cl/logo/1609_Red_Vision_Television.png", Red Vision Television | Chile
+https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png", Ritmo Top Latino | Chile
+https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/chunklist_w1111145369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Rosa FM" tvg-logo="https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png", Radio Rosa FM | Chile
+https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bienvenida FM" tvg-logo="https://cdn.m3u.cl/logo/1463_Radio_Bienvenida_FM.png", Radio Bienvenida FM | Chile
+https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ritmo FM" tvg-logo="https://i.imgur.com/qU3E0kX.png", Radio Ritmo FM | Chile
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Magallanes" tvg-logo="	https://www.radiomagallanes.cl/images/logo.jpg", Radio Magallanes | Chile
+https://live20.bozztv.com/akamaissh101/ssh101/radiomagallanes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Popular Coihueco" tvg-logo="https://cdn.m3u.cl/logo/1122_Radio_Popular_Coihueco.png", Radio Popular Coihueco | Chile
+https://tv.arkeo.cl:19360/8052/8052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Universal" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png", Radio Universal | Chile
+https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Frecuencia Uno" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png", Radio Frecuencia Uno | Chile
+https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Presidente Ibañez" tvg-logo="https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png", Radio Presidente Ibañez | Chile
+https://ibanez.servercl.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Portales" tvg-logo="https://cdn.m3u.cl/logo/420_Radio_Portales.png", Radio Portales | Chile
+https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Navarino" tvg-logo="https://cdn.m3u.cl/logo/1538_Radio_Navarino.png", Radio Navarino | Chile
+https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png", Radio Zona 90.3 | Chile
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Genial TV" tvg-logo="https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png", Radio Genial TV | Chile
+https://v1.tustreaming.cl:443/genialtv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png", Radio Fiessta | Chile
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Panoramica" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png", Radio Panoramica | Chile
+https://v2.tustreaming.cl:/alingeproducciones/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Favorita" tvg-logo="https://cdn.m3u.cl/logo/417_Radio_Favorita.png", Radio Favorita | Chile
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Fantasia TV" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV | Chile
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila TV | Chile
+https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Revolviendola Radio" tvg-logo="https://cdn.m3u.cl/logo/1639_Revolviendola_Radio.png", Revolviendola Radio | Chile
+https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Romantica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png", Radio Romantica | Chile
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Romantica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg", Radio Romantica TV | Chile
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Señal" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png", Radio La Señal | Chile
+https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ancoa TV" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png", Radio Ancoa TV | Chile
+https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Imagen 106.5" tvg-logo="https://cdn.m3u.cl/logo/1565_Radio_Imagen_106_5.png", Radio Imagen 106.5 | Chile
+https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png", Radioactiva TV | Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png", Radio Infinita | Chile
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png", Radio Agricultura | Chile
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png", Radio Agricultura 2 | Chile
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Radio Vida Curico" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png", Radio Vida Curico | Chile
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Suyai TV" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png", Suyai TV | Chile
+https://signal.suyaitv.cl/live/36/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96
+#EXTINF:-1 tvg-id="" tvg-name="Suyai Radio" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png", Suyai Radio | Chile
+https://signal.suyaitv.cl/live/37/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96
+#EXTINF:-1 tvg-id="" tvg-name="STGO.TV" tvg-logo="https://i.imgur.com/VrqjFUf.png", STGO.TV | Chile
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Señal Mediabanco" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png", Señal Mediabanco | Chile
+https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somos TV" tvg-logo="https://somostv.cl/wp-content/uploads/2024/09/somostv-log-top.png", Somos TV | Chile
+https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Sextavision" tvg-logo="https://i.imgur.com/mwUZBU9.png", Sextavision | Chile
+https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Supersonika TV" tvg-logo="https://cdn.m3u.cl/logo/349_Supersonika_TV.png", Supersonika TV | Chile
+https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Santa Maria TV" tvg-logo="https://i.imgur.com/SnbGpoK.png", Santa Maria TV | Chile
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Soberania Radio" tvg-logo="https://cdn.m3u.cl/logo/370_Soberania_Radio.png?rand=gno0eilDum", Soberania Radio | Chile
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Sur TV" tvg-logo="https://i.imgur.com/wDCqoor.png", Sur TV | Chile
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Solobailalo TV" tvg-logo="https://i.imgur.com/SImJE7c.png", Solobailalo TV | Chile
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz FM" tvg-logo="https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png", Santa Cruz FM | Chile
+https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Sabor TV" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png", Sabor TV | Chile
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Sabrosona TV" tvg-logo="https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png", Sabrosona TV | Chile
+https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN | Chile
+http://190.151.80.242:9990/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Bajo Cero" tvg-logo="https://cdn.m3u.cl/logo/1676_TV_Bajo_Cero.png", TV Bajo Cero | Chile
+https://tv.arkeo.cl:1936/tvbajocero/tvbajocero/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png", TV+ | Chile
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TVN3" tvg-logo="https://i.imgur.com/9LEiQPJ.png", TVN3 | Chile
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="T13" tvg-logo="https://i.imgur.com/2Vlkl2x.png", T13 | Chile
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio | Chile
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/Zfe2f5j.png", 13 Cultura | Chile
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png", 13 Cocina | Chile
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png", 13 Pop | Chile
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/csBNi2L.png", 13 Teleseries | Chile
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://i.imgur.com/Ymk6j5o.png", 13 Festival | Chile
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://i.imgur.com/m0SuwMU.png", 13 Realities | Chile
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes | Chile
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png", 13 Internacional | Chile
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="13 Go" tvg-logo="https://i.imgur.com/8WJUbSD.png", 13 Go | Chile
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVU" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png", TVU | Chile
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV UCT" tvg-logo="https://i.imgur.com/tpI0WQH.png", TV UCT | Chile
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/CNUZ6ig.png", TV Senado | Chile
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-logo="https://i.imgur.com/FnInQRd.png", Tevex | Chile
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png", TV Salud | Chile
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png", TurnoEnVivo | Chile
+https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="ThemaTV" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png", ThemaTV | Chile
+https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Elqui" tvg-logo="https://cdn.m3u.cl/logo/329_TV_Elqui.png", TV Elqui | Chile
+https://panel.tvstream.cl:1936/campu/campu/chunklist_w1445673458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png", TVR | Chile
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Tendencias Prime" tvg-logo="https://cdn.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime | Chile
+https://v4.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png", Telecanal Santa Cruz | Chile
+https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TVO San Vicente" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png", TVO San Vicente | Chile
+https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 Linares" tvg-logo="https://cdn.m3u.cl/logo/80_TV_5_Linares.png", TV 5 Linares | Chile
+https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Telecauquenes" tvg-logo="https://cdn.m3u.cl/logo/1302_Telecauquenes.png", Telecauquenes | Chile
+https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Teleangol Radio" tvg-logo="https://cdn.m3u.cl/logo/82_Teleangol_Radio.png", Teleangol Radio | Chile
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Temuco TV" tvg-logo="https://cdn.m3u.cl/logo/357_Temuco_TV.png", Temuco TV | Chile
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TVM" tvg-logo="https://cdn.m3u.cl/logo/1293_TVM.png", TVM | Chile
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="T-Vinet" tvg-logo="https://i.imgur.com/KisHIpA.png", T-Vinet | Chile
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://i.imgur.com/oYFto0V.png", TV Chile | Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak" tvg-logo="https://i.imgur.com/NoJvlig.png", Teletrak | Chile
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Turf" tvg-logo="https://i.imgur.com/TwIe4lK.png", TV Turf | Chile
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV vconline.cl" tvg-logo="https://i.imgur.com/VlKl2VB.png", TV vconline.cl | Chile
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Top New Radio" tvg-logo="https://cdn.m3u.cl/logo/973_Top_New_Radio.png", Top New Radio | Chile
+https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Tributo Valentina" tvg-logo="https://cdn.m3u.cl/logo/786_Tributo_Valentina.png", Tributo Valentina | Chile
+https://vdochile.com:3795/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TNE" tvg-logo="https://i.imgur.com/8QbvXva.png", TNE | Chile
+https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Televida HD" tvg-logo="https://i.imgur.com/bmNA8hq.png", Televida HD | Chile
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa.jpg", TV Costa | Chile
+https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV | Chile
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UCV" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png", UCV | Chile
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 | Chile
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UTalcaTV" tvg-logo="https://i.imgur.com/LvzLg33.png", UTalcaTV | Chile
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Universidad Autonoma TV" tvg-logo="https://i.imgur.com/BdZGS66.png", Universidad Autonoma TV | Chile
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UMAG TV" tvg-logo="https://cdn.m3u.cl/logo/60_UMAG_TV.png", UMAG TV | Chile
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UMAG TV 2" tvg-logo="https://cdn.m3u.cl/logo/61_UMAG_TV_2.png", UMAG TV 2 | Chile
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UesTV" tvg-logo="https://i.imgur.com/tAyiNZV.png", UesTV | Chile
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="UTV San Clemente" tvg-logo="https://i.imgur.com/ZJNSpfZ.png", UTV San Clemente | Chile
+https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ | Chile
+https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="U Lagos TV" tvg-logo="https://i.imgur.com/HxUZseV.png", U Lagos TV | Chile
+http://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="U de Chile TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/UChile_TV_logo_2020.png", U de Chile TV | Chile
+https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unetev Talagante" tvg-logo="https://www.unetev.cl/wp-content/uploads/2023/08/LOGO1-1.png", Unetev Talagante | Chile
+https://tv.arkeo.cl:1936/unetev/unetev/chunklist_w1640231951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViaX" tvg-logo="https://cdn.m3u.cl/logo/viax.png", ViaX | Chile
+http://45.4.1.130:5783/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV" tvg-logo="https://i.imgur.com/WIACJSy.png", VClassicTV | Chile
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png", VClassicTV Tropical | Chile
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://i.imgur.com/0bFVvKj.png", VTV | Chile
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VoxPopuli Chile" tvg-logo="https://i.imgur.com/BYBMuhf.png", VoxPopuli Chile | Chile
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Vision Plus TV" tvg-logo="https://i.imgur.com/mpNcG5F.png", Vision Plus TV | Chile
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="VLTV" tvg-logo="https://cdn.m3u.cl/logo/343_VLTV.png", VLTV | Chile
+https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Vision TV" tvg-logo="https://cdn.m3u.cl/logo/361_Vision_TV.png", Vision TV | Chile
+https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Valparaiso Sporting" tvg-logo="https://cdn.m3u.cl/logo/375_Valparaiso_Sporting.png", Valparaiso Sporting | Chile
+https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Weed Radio" tvg-logo="https://cdn.m3u.cl/logo/1577_Weed_Radio.png", Weed Radio | Chile
+https://tv.arkeo.cl:1936/weedradiocl/weedradiocl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Wapp TV" tvg-logo="https://graph.facebook.com/wapptv.cl/picture?width=800&height=800", Wapp TV | Chile
+https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom Tecnologico Plus" tvg-logo="https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png", Zoom Tecnologico Plus | Chile
+https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Zona Play Radio" tvg-logo="https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png", Zona Play Radio | Chile
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL
 
+#---AFGANISTÁN 2---
+#EXTINF:-1 tvg-id="" tvg-name="Chekad TV" tvg-logo="", Chekad TV | Afganistán
+https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunya Naw TV" tvg-logo="", Dunya Naw TV | Afganistán
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eslah TV" tvg-logo="", Eslah TV | Afganistán
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kayhan TV" tvg-logo="", Kayhan TV | Afganistán
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTA" tvg-logo="", RTA | Afganistán
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTA Education" tvg-logo="", RTA Education | Afganistán
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTA News" tvg-logo="", RTA News | Afganistán
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTA Sport" tvg-logo="", RTA Sport | Afganistán
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shamshad TV" tvg-logo="", Shamshad TV NO 24/7 | Afganistán
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamadon TV" tvg-logo="", Tamadon TV | Afganistán
+https://hls.tamadon.live/hls/stream.m3u8
 
+#---ALBANIA 3---
+#EXTINF:-1 tvg-id="" tvg-name="AlbKanale Music TV" tvg-logo="", AlbKanale Music TV | Albania
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="", CNA | Albania
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="", Euronews Albania | Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="", News 24 NO 24/7 | Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 Albania" tvg-logo="", News 24 Albania | Albania
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="", Ora News | Albania
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syri" tvg-logo="", Syri | Albania
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="", Vizion Plus | Albania
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV" tvg-logo="", Zjarr TV | Albania
+https://zjarr.future.al/hls/playlist.m3u8
 
-
-
+#---ANGOLA 6---
+#EXTINF:-1 tvg-id="" tvg-name="KK TV Angola" tvg-logo="", KK TV Angola | Angola
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzangala TV" tvg-logo="", Muzangala TV | Angola
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Zimbo" tvg-logo="", TV Zimbo| Angola
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
 #---ARGENTINA 10---
 #EXTINF:-1 tvg-id="" tvg-name="5TV Corrientes" tvg-logo="", 5TV Corrientes | Argentina
@@ -338,9 +703,9 @@ https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bravo TV" tvg-logo="", Bravo TV | Argentina
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-#EXTINF:-1 tvg-id="" tvg-name="Cable Imagen Armstrong" tvg-logo="", Cable Imagen Armstrong | Argentina
+#EXTINF:-1 tvg-id="" tvg-name="Cable Imagen Armstrong" tvg-logo="", Cable Imagen Armstrong NO 24/7 | Argentina
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cadena 103" tvg-logo="", Cadena 103 | Argentina
+#EXTINF:-1 tvg-id="" tvg-name="Cadena 103" tvg-logo="", Cadena 103 NO 24/7 | Argentina
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 79 Mar del Plata" tvg-logo="", Canal 79 Mar del Plata | Argentina
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
@@ -348,15 +713,588 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 http://177.10.184.193:8000/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JUNCO TV" tvg-logo="", JUNCO TV | Argentina
 http://177.10.184.193:8000/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Universidad" tvg-logo="", TV Universidad | Argentina
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Solidaria" tvg-logo="", TV Solidaria | Argentina
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Maná Argentina" tvg-logo="", TV Maná Argentina NO 24/7 | Argentina
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telenord Corrientes" tvg-logo="", Telenord Corrientes NO 24/7 | Argentina
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="", Telemax | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Urban Mix" tvg-logo="", Urban Mix | Argentina
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-logo="", Uniteve no 24/7 | Argentina
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unife TV" tvg-logo="", Unife TV | Argentina
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VerTV (VTV)" tvg-logo="", VerTV (VTV) NO 24/7 | Argentina
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtrema Cartoons" tvg-logo="", Xtrema Cartoons | Argentina
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtrema Accion" tvg-logo="", Xtrema Accion | Argentina
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X Level Media" tvg-logo="", X Level Media | Argentina
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alterna TV" tvg-logo="", Alterna TV NO 24/7 | Argentina
+https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV Argentina" tvg-logo="", ATV Argentina | Argentina
+https://tv.streaming.com.bo/atvargentina/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bayres TV" tvg-logo="", Bayres TV | Argentina
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 de Ushuaia" tvg-logo="", Canal 2 de Ushuaia | Argentina
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Misiones" tvg-logo="", Canal 2 Misiones | Argentina
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 La Pampa" tvg-logo="", Canal 3 La Pampa | Argentina
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Las Heras" tvg-logo="", Canal 3 Las Heras | Argentina
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Jujuy" tvg-logo="", Canal 4 Jujuy | Argentina
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="", Canal 4 Posadas | Argentina
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 San Juan" tvg-logo="", Canal 4 San Juan | Argentina
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Del Pueblo" tvg-logo="", Canal 5 Del Pueblo NO 24/7 | Argentina
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 TV Chepes" tvg-logo="", Canal 5 TV Chepes | Argentina
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Posadas" tvg-logo="", Canal 6 Posadas | Argentina
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="", Canal 7 Jujuy | Argentina
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Neuquén" tvg-logo="", Canal 7 Neuquén | Argentina
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Salta" tvg-logo="", Canal 7 Salta | Argentina
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Santiago del Estero" tvg-logo="", Canal 7 Santiago del Estero | Argentina
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral" tvg-logo="", Canal 9 Litoral | Argentina
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Resistencia" tvg-logo="", Canal 9 Resistencia | Argentina
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Cordoba" tvg-logo="", Canal 10 Cordoba | Argentina
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 de la Costa" tvg-logo="", Canal 11 de la Costa | Argentina
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja" tvg-logo="", Canal 13 La Rioja | Argentina
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 San Luis" tvg-logo="", Canal 13 San Luis | Argentina
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 TV" tvg-logo="", Canal 21 TV | Argentina
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="", Canal 22 | Argentina
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="", Canal 22 | Argentina
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="", Canal 26 | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 34 San Juan" tvg-logo="", Canal 34 San Juan | Argentina
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 La Costa" tvg-logo="", Canal 79 La Costa | Argentina
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Puan" tvg-logo="", Canal 79 Puan | Argentina
+https://streamconex.com:19360/puan/puan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Santa Clara del Mar" tvg-logo="", Canal 79 Santa Clara del Mar | Argentina
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal E" tvg-logo="", Canal E | Argentina
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Orbe 21" tvg-logo="", Canal Orbe 21 | Argentina
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Santa María" tvg-logo="", Canal Santa María | Argentina
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celta TV" tvg-logo="", Celta TV | Argentina
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaco TV" tvg-logo="", Chaco TV NO 24/7 | Argentina
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chilecito TV" tvg-logo="", Chilecito TV | Argentina
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix" tvg-logo="", Cumbia Mix | Argentina
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV Latin America" tvg-logo="", Garage TV Latin America | Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kpop Mix" tvg-logo="", Kpop Mix | Argentina
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Litus TV" tvg-logo="", Litus TV | Argentina
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Más FM 95.9" tvg-logo="", Más FM 95.9 | Argentina
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="", Metro TV | Argentina
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Misiones Cuatro" tvg-logo="", Misiones Cuatro | Argentina
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NG Federal" tvg-logo="", NG Federal | Argentina
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power Max Radio TV" tvg-logo="", Power Max Radio TV | Argentina
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Conexion Web TV" tvg-logo="", Radio Conexion Web TV | Argentina
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Realpolitik" tvg-logo="", Radio Realpolitik | Argentina
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sublime Gracia TV" tvg-logo="", Radio Sublime Gracia TV | Argentina
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio TV Neuquén" tvg-logo="", Radio TV Neuquén NO 24/7 | Argentina
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Yguazú TV" tvg-logo="", Radio Yguazú TV | Argentina
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radiocanal San Francisco" tvg-logo="", Radiocanal San Francisco | Argentina
+http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTN (Neuquén)" tvg-logo="", RTN (Neuquén) NO 24/7 | Argentina
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="San Pedro TV" tvg-logo="", San Pedro TV NO 24/7 | Argentina
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sicardi TV" tvg-logo="", Sicardi TV | Argentina
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleCinco Trelew" tvg-logo="", TeleCinco Trelew | Argentina
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Rosario" tvg-logo="", Telefe Rosario | Argentina
+https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
+#---AUSTRALIA 12---
+#EXTINF:-1 tvg-id="" tvg-name="10 Bold Adelaide" tvg-logo="", 10 Bold Adelaide | Australia
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Entertains" tvg-logo="", ABC Entertains | Australia
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC Kids" tvg-logo="", ABC Kids | Australia
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="", ABC News | Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="", ABC TV ACT | Australia
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ausbiz TV" tvg-logo="", ausbiz TV NO 24/7 | Australia
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV Australia" tvg-logo="", Bloomberg TV Australia | Australia
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C31 Melbourne" tvg-logo="", C31 Melbourne | Australia
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Expo Channel" tvg-logo="", Expo Channel | Australia
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Extra 1" tvg-logo="", Sky News Extra 1 | Australia
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVSN" tvg-logo="", TVSN | Australia
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVSN Beauty" tvg-logo="", TVSN Beauty | Australia
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVSN Jewellery" tvg-logo="", TVSN Jewellery | Australia
+https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="", Action Hollywood Movies | Australia
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anger Management Channel" tvg-logo="", Anger Management Channel | Australia
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="", Baywatch | Australia
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bondi Vet" tvg-logo="", Bondi Vet | Australia
+https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Breaking News by LeadStory" tvg-logo="", Breaking News by LeadStory | Australia
+https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Come Dine With Me" tvg-logo="", Come Dine With Me | Australia
+https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deal or No Deal" tvg-logo="", Deal or No Deal | Australia
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dry Bar Comedy" tvg-logo="", Dry Bar Comedy | Australia
+https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Escape to the Country" tvg-logo="", Escape to the Country | Australia
+https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Failarmy International" tvg-logo="", Failarmy International | Australia
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fear Factor" tvg-logo="", Fear Factor | Australia
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Four in a Bed" tvg-logo="", Four in a Bed | Australia
+https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="", Fuel TV | Australia
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Haunt TV" tvg-logo="", Haunt TV | Australia
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Homes Under The Hammer" tvg-logo="", Homes Under The Hammer | Australia
+https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horse and Country" tvg-logo="", Horse and Country | Australia
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INFAST" tvg-logo="", INFAST | Australia
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inside Outside" tvg-logo="", Inside Outside | Australia
+https://all3media-international-insideoutside-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="InWild" tvg-logo="", InWild | Australia
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="InWonder" tvg-logo="", InWonder | Australia
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kartoon Channel" tvg-logo="", Kartoon Channel | Australia
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life Downunder" tvg-logo="", Life Downunder | Australia
+https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-logo="", MovieSphere | Australia
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTRSPT 1" tvg-logo="", MTRSPT 1 | Australia
+https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network" tvg-logo="", MyTime Movie Network | Australia
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatureTime" tvg-logo="", NatureTime | Australia
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="People Are Awesome" tvg-logo="", People Are Awesome | Australia
+https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="", Pet Club TV | Australia
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PowerNation" tvg-logo="", PowerNation | Australia
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Project Runway" tvg-logo="", Project Runway | Australia
+https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pulse" tvg-logo="", Pulse | Australia
+https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Qwest TV Jazz & Beyond" tvg-logo="", Qwest TV Jazz & Beyond | Australia
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCM" tvg-logo="", RCM | Australia
+https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ryan and Friends" tvg-logo="", Ryan and Friends | Australia
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Surf Cinema" tvg-logo="", Surf Cinema | Australia
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade Australia" tvg-logo="", Tastemade Australia | Australia
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective International" tvg-logo="", The Pet Collective International | Australia
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Wicked Tuna Channel" tvg-logo="", The Wicked Tuna Channel | Australia
+https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Timeline" tvg-logo="", Timeline | Australia
+https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ToonGoggles" tvg-logo="", ToonGoggles | Australia
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport Stars" tvg-logo="", Trace Sport Stars | Australia
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="", Trace Urban | Australia
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travelxp" tvg-logo="", Travelxp | Australia
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Undercover Boss" tvg-logo="", Undercover Boss | Australia
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-logo="", Vevo 2K | Australia
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 70s" tvg-logo="", Vevo 70s | Australia
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 80s" tvg-logo="", Vevo 80s | Australia
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 90s" tvg-logo="", Vevo 90s | Australia
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Country" tvg-logo="", Vevo Country | Australia
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-logo="", Vevo Pop | Australia
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WeatherSpy" tvg-logo="", WeatherSpy | Australia
+https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wipeout Xtra" tvg-logo="", Wipeout Xtra | Australia
+https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="", Wonder | Australia
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="", Zee One | Australia
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo" tvg-logo="", Zoo Moo | Australia
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#---AUSTRIA 13---
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Kaernten" tvg-logo="", Antenne Kaernten | Austria
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Steiermark" tvg-logo="", Antenne Steiermark | Austria
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="", ATV HD | Austria
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="FS1 Salzburg" tvg-logo="", FS1 Salzburg NO 24/7 | Austria
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="", FUEL TV | Austria
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hitradio O3" tvg-logo="", Hitradio O3 | Austria
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="KIT-TV" tvg-logo="", KIT-TV | Austria
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit" tvg-logo="", Kronehit | Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ländle TV" tvg-logo="", Ländle TV NO 24/7 | Austria
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R9" tvg-logo="", R9 NO 24/7 | Austria
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="", Red Bull TV | Austria
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="", RTV NO 24/7 | Austria
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Schladming-Dachstein TV" tvg-logo="", Schladming-Dachstein TV | Austria
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Steiermark TV" tvg-logo="", Steiermark TV | Austria
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="" tvg-name="Stimmungsgarten TV" tvg-logo="", Stimmungsgarten TV | Austria
+https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tirol TV" tvg-logo="", Tirol TV NO 24/7 | Austria
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 1 Oberösterreich" tvg-logo="", TV 1 Oberösterreich | Austria
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W24" tvg-logo="", W24 NO 24/7 | Austria
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
+#---AZERBAIYÁN 14---
+#EXTINF:-1 tvg-id="" tvg-name="Alvin Channel TV" tvg-logo="", Alvin Channel TV NO 24/7 | Azerbaiyán
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB" tvg-logo="", ARB | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24" tvg-logo="", ARB 24 | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB Gunes" tvg-logo="", ARB Gunes | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azstar TV" tvg-logo="", Azstar TV | Azerbaiyán
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baku TV" tvg-logo="", Baku TV | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal S TV" tvg-logo="", Kanal S TV | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kapaz TV" tvg-logo="", Kapaz TV | Azerbaiyán
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space TV" tvg-logo="", Space TV | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMB TV" tvg-logo="", TMB TV | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP TV" tvg-logo="", VIP TV | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xezer TV" tvg-logo="", Xezer TV | Azerbaiyán
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+
+#---BANGLADÉS 16---
+#EXTINF:-1 tvg-id="" tvg-name="Deshi TV" tvg-logo="", Deshi TV | Bangladés
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="", Duronto TV | Bangladés
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="", Ekushey TV | Bangladés
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="", Gaan Bangla | Bangladés
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+
+#---BARBADOS 17---
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV8" tvg-logo="", CBC TV8 NO 24/7 | Barbados
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+
+#---BARÉIN 18---
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain International" tvg-logo="", Bahrain International NO 24/7 | Baréin
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Quran" tvg-logo="", Bahrain Quran NO 24/7 | Baréin
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sports 1" tvg-logo="", Bahrain Sports 1 NO 24/7 | Baréin
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sports 2" tvg-logo="", Bahrain Sports 2 NO 24/7 | Baréin
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain TV" tvg-logo="", Bahrain TV NO 24/7 | Baréin
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#---BÉLGICA 19---
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="", ATV | Bélgica
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bel RTL" tvg-logo="", Bel RTL | Bélgica
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BX1" tvg-logo="", BX1 NO 24/7 | Bélgica
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LN24" tvg-logo="", LN24 | Bélgica
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MaTele" tvg-logo="", MaTele NO 24/7 | Bélgica
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Notele" tvg-logo="", Notele NO 24/7 | Bélgica
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q-Music" tvg-logo="", Q-Music | Bélgica
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="", Radio Contact | Bélgica
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trends Z" tvg-logo="", Trends Z | Bélgica
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Go USA TV" tvg-logo="", Go USA TV | Bélgica
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Just For Laughs Gags" tvg-logo="", Just For Laughs Gags | Bélgica
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mojitv" tvg-logo="", Mojitv | Bélgica
+https://odmedia-mojitv-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Strongman Champions League" tvg-logo="", Strongman Champions League | Bélgica
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+
+#---BENÍN 21---
+#EXTINF:-1 tvg-id="" tvg-name="Eden TV" tvg-logo="", Eden TV NO 24/7 | Benín
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ORTB TV" tvg-logo="", ORTB TV | Benín
+http://69.64.57.208/ortb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC Bénin" tvg-logo="", TVC Bénin | Benín
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+
+#---BOLIVIA 24---
+#EXTINF:-1 tvg-id="" tvg-name="Bolivisión LPZ" tvg-logo="", Bolivisión LPZ | Bolivia
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cadena A" tvg-logo="", Cadena A NO 24/7 | Bolivia
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CEACOM TV" tvg-logo="", CEACOM TV NO 24/7 | Bolivia
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="", CTV | Bolivia
+https://live.ctvbolivia.com/hls/ctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F10 HD" tvg-logo="", F10 HD | Bolivia
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="", FTV | Bolivia
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Palenque TV" tvg-logo="", Palenque TV | Bolivia
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red ADvenir TV" tvg-logo="", Red ADvenir TV NO 24/7 | Bolivia
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red CCTV" tvg-logo="", Red CCTV | Bolivia
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red TV Shop" tvg-logo="", Red TV Shop | Bolivia
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP" tvg-logo="", RTP | Bolivia
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UMSA TVU Internacional" tvg-logo="", UMSA TVU Internacional | Bolivia
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UMSA TVU LP" tvg-logo="", UMSA TVU LP | Bolivia
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univalle Televisión" tvg-logo="", Univalle Televisión | Bolivia
+https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UniversidadMayordeSanAndres" tvg-logo="", UniversidadMayordeSanAndres NO 24/7 | Bolivia
+https://live.enhdtv.com:8081/8190/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UPEA TV" tvg-logo="", UPEA TV | Bolivia
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV Canal 17" tvg-logo="", VTV Canal 17 NO 24/7 | Bolivia
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XTOTV " tvg-logo="", XTOTV  NO 24/7 | Bolivia
+http://190.104.15.135/0.ts
+
+#---BOSNIA Y HERZEGOVIA 25---
+#EXTINF:-1 tvg-id="" tvg-name="NTV IC Kakanj" tvg-logo="", NTV IC Kakanj | Bosnia y Herzegovina
+https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTRS Plus" tvg-logo="", RTRS Plus NO 24/7 | Bosnia y Herzegovina
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTRS TV" tvg-logo="", RTRS TV NO 24/7 | Bosnia y Herzegovina
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Herceg-Bosne" tvg-logo="", RTV Herceg-Bosne 24/7 | Bosnia y Herzegovina
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zenica" tvg-logo="", RTV Zenica | Bosnia y Herzegovina
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televizija 5" tvg-logo="", Televizija 5 | Bosnia y Herzegovina
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televizija M" tvg-logo="", Televizija M | Bosnia y Herzegovina
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Senato TV" tvg-logo="", Senato TV | Bosnia y Herzegovina
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
 #---BRASIL 27---
 #EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="", EURO Channel | Brasil
 http://177.10.184.193:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KpopTV Play" tvg-logo="https://i.imgur.com/Tf0vweF.png", KpopTV Play | Brasil
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1001 Noites" tvg-logo="", 1001 Noites NO 24/7 | Brasil
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adesso TV" tvg-logo="", Adesso TV | Brasil
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Sat" tvg-logo="", Amazon Sat | Brasil
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AWTV" tvg-logo="", AWTV | Brasil
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDC TV" tvg-logo="", BDC TV | Brasil
+https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boas Novas" tvg-logo="", Boas Novas | Brasil
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí" tvg-logo="", Canal 25 Jundiaí NO 24/7 | Brasil
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 38" tvg-logo="", Canal 38 | Brasil
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Educação" tvg-logo="", Canal Educação | Brasil
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Gov" tvg-logo="", Canal Gov | Brasil
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Catve2" tvg-logo="", Catve2 | Brasil
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Catve FM" tvg-logo="", Catve FM NO 24/7 | Brasil
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Catve Master TV" tvg-logo="", Catve Master TV NO 24/7 | Brasil
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chroma TV" tvg-logo="", Chroma TV | Brasil
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="", Classique TV | Brasil
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil" tvg-logo="", COM Brasil NO 24/7 | Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil" tvg-logo="", ConecTV Brasil | Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conexão TV" tvg-logo="", Conexão TV | Brasil
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CWB TV" tvg-logo="", CWB TV | Brasil
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Demais TV" tvg-logo="", Demais TV | Brasil
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Despertar TV" tvg-logo="", Despertar TV | Brasil
+https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ElyTV" tvg-logo="", ElyTV | Brasil
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUTV" tvg-logo="", EUTV | Brasil
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fala Litoral" tvg-logo="", Fala Litoral | Brasil
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fonte TV" tvg-logo="", Fonte TV NO 24/7 | Brasil
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geekdot" tvg-logo="", Geekdot | Brasil
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#---BRUNÉI 28---
+#EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="", RTB Aneka | Brunéi
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTB Go" tvg-logo="", RTB Go | Brunéi
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="", RTB Sukmaindera | Brunéi
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#---BULGARIA 29---
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="", Agro TV | Bulgaria
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="", City TV NO 24/7 | Bulgaria
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV" tvg-logo="", DSTV NO 24/7 | Bulgaria
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="", Evrokom | Bulgaria
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hope Channel" tvg-logo="", Hope Channel | Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="", Light Channel NO 24/7 | Bulgaria
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV" tvg-logo="", Magic TV | Bulgaria
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMTV" tvg-logo="", RMTV | Bulgaria
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Voice TV" tvg-logo="", The Voice TV | Bulgaria
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="", This is Bulgaria | Bulgaria
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tiankov Folk" tvg-logo="", Tiankov Folk | Bulgaria
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tiankov Orient Folk" tvg-logo="", Tiankov Orient Folk | Bulgaria
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Zagora" tvg-logo="", TV Zagora | Bulgaria
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+
+#---BURKINA FASO 30---
+#EXTINF:-1 tvg-id="" tvg-name="Burkina Info TV" tvg-logo="", Burkina Info TV | Burkina Faso
+http://69.64.57.208/burkinainfo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTB" tvg-logo="", RTB NO 24/7 | Burkina Faso
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTB2 Hauts-Basins" tvg-logo="", RTB2 Hauts-Basins | Burkina Faso
+https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTB 3" tvg-logo="", RTB 3 | Burkina Faso
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+
+#---CHINA 39---
+#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png", Pet Club TV | China
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+
 
 
 
@@ -364,6 +1302,8 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #---COLOMBIA 41---
 #EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg", Caracol | Colombia
 http://177.10.184.193:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" tvg-logo="https://cdn.m3u.cl/logo/rcn_novelas.png", RCN Novelas | Colombia
+http://177.10.184.193:8000/play/a049/index.m3u8
 
 
 
@@ -449,6 +1389,30 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NS Shop Plus" tvg-logo="https://i.imgur.com/7KmXNci.png", NS Shop Plus | Corea del Sur
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OBS Gyeongin TV" tvg-logo="https://i.imgur.com/oWB3ApR.png", OBS Gyeongin TV | Corea del Sur
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png", OUN | Corea del Sur
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUTC TV" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg", RUTC TV | Corea del Sur
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS G1" tvg-logo="https://i.imgur.com/ABdmZMc.png", SBS G1 | Corea del Sur
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS KBC" tvg-logo="https://i.imgur.com/Srsw4Mi.png", SBS KBC | Corea del Sur
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS UBC" tvg-logo="https://i.imgur.com/BBCoqIf.png", SBS UBC | Corea del Sur
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shinsegae Shopping TV" tvg-logo="https://i.imgur.com/Hq3yjqA.png", Shinsegae Shopping TV | Corea del Sur
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shopping NT" tvg-logo="https://i.imgur.com/BgbJp5X.png", Shopping NT | Corea del Sur
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS Seoul" tvg-logo="https://i.imgur.com/iOnWS6V.png", TBS Seoul | Corea del Sur
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png", TV Chosun 2 | Corea del Sur
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-logo="https://i.imgur.com/62EwaCG.png", TV Chosun | Corea del Sur
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W Shopping" tvg-logo="https://i.imgur.com/hfXjVJd.png", W Shopping | Corea del Sur
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 
 
 
@@ -494,6 +1458,10 @@ http://177.10.184.193:8000/play/a06a/index.m3u8
 http://177.10.184.193:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Europa" tvg-logo="", Europa | España
 http://177.10.184.193:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Star TVE | España
+http://177.10.184.193:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_TVE_2021.svg", TVE Europa | España
+http://177.10.184.193:8000/play/a05x/index.m3u8
 
 
 
@@ -507,6 +1475,20 @@ http://177.10.184.193:8000/play/a03z/index.m3u8
 http://177.10.184.193:8000/play/a0by/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="", Golf Channel | Estados Unidos
 http://177.10.184.193:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="", Pasiones | Estados Unidos
+http://177.10.184.193:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="", Sembrador | Estados Unidos
+http://177.10.184.193:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="", SEMILLITAS | Estados Unidos
+http://177.10.184.193:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="", Telemundo | Estados Unidos
+http://177.10.184.193:8000/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="", Tru TV | Estados Unidos
+http://177.10.184.193:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="", TUDN USA | Estados Unidos
+http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="", Univision | Estados Unidos
+http://177.10.184.193:8000/play/a0a7/index.m3u8
 
 
 
@@ -530,6 +1512,8 @@ https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MYX" tvg-logo="", MYX | Filipinas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TeleRadyo" tvg-logo="", TeleRadyo | Filipinas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 
 
@@ -537,6 +1521,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnon
 #---GUATEMALA 72---
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Guatemala" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Canal_13_2021.svg", Azteca Guatemala | Guatemala
 http://177.10.184.193:8000/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="", RHEMA TV | Guatemala
+http://177.10.184.193:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-logo="", Tigo Sports | Guatemala
+http://177.10.184.193:8000/play/a09k/index.m3u8
 
 
 
@@ -568,6 +1556,24 @@ http://177.10.184.193:8000/play/a03b/index.m3u8
 http://177.10.184.193:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA TV" tvg-logo="", MEGA TV | Honduras
 http://177.10.184.193:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patepluma" tvg-logo="", Patepluma | Honduras
+http://177.10.184.193:8000/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUYAPA TV" tvg-logo="", SUYAPA TV | Honduras
+http://177.10.184.193:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SULA TV" tvg-logo="", SULA TV | Honduras
+http://177.10.184.193:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SULA TV" tvg-logo="", SULA TV | Honduras
+http://177.10.184.193:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="", TSI | Honduras
+http://177.10.184.193:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7 Y 4" tvg-logo="", TELECADENA 7 Y 4 | Honduras
+http://177.10.184.193:8000/play/a0fk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEPROGRESO" tvg-logo="", TELEPROGRESO | Honduras
+http://177.10.184.193:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png", Canal VTV | Honduras
+http://177.10.184.193:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNE TV" tvg-logo="", UNE TV | Honduras
+http://177.10.184.193:8000/play/a0fg/index.m3u8
 
 
 
@@ -581,6 +1587,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png", NHK BS | Japón
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="https://i.imgur.com/6TWUVrh.png", QVC Japan | Japón
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.postimg.cc/wMqPSBfX/shopchannel.png", Shop Channel | Japón
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WOWOW Live" tvg-logo="https://i.imgur.com/jPAYT5F.png", WOWOW Live | Japón
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
 
 
@@ -617,6 +1629,35 @@ http://177.10.184.193:8000/play/a04h/index.m3u8
 http://177.10.184.193:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="", Multipremier | México
 http://177.10.184.193:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="", TELENOVELAS | México
+http://177.10.184.193:8000/play/a0dz/index.m3u8
+
+#---PAÍSES BAJOS 132---
+#EXTINF:-1 tvg-id="" tvg-name="Aruba.TV" tvg-logo="", Aruba.TV | Aruba
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cool FM 98.9" tvg-logo="", Cool FM 98.9 | Aruba
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nos Isla TV" tvg-logo="", Nos Isla TV NO 24/7 | Aruba
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power 101.7 FM" tvg-logo="", Power 101.7 FM | Aruba
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telearuba" tvg-logo="", Telearuba NO 24/7 | Aruba
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bonaire.tv" tvg-logo="", Bonaire.tv NO 24/7 | BES
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Energia TV" tvg-logo="", Energia TV NO 24/7 | BES
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live99FM" tvg-logo="", Live99FM | BES
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+
+
+
+
+
+#---REINO UNIDO 142---
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LA LIGA" tvg-logo="", SKY SPORT LA LIGA | Reino Unido
+http://177.10.184.193:8000/play/a0eh/index.m3u8
+
 
 
 
@@ -624,6 +1665,17 @@ http://177.10.184.193:8000/play/a05s/index.m3u8
 #---REP. DOMINICANA 147---
 #EXTINF:-1 tvg-id="" tvg-name="Antena 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Antena_Latina_2016.png/revision/latest/scale-to-width-down/200?cb=20201021020612&path-prefix=es", Antena 7 | Rep. Dominicana
 http://177.10.184.193:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso" tvg-logo="", Teleuniverso | Rep. Dominicana
+http://177.10.184.193:8000/play/a06s/index.m3u8
+
+
+
+
+
+#---RUSIA 150---
+#EXTINF:-1 tvg-id="" tvg-name="RT EN ESPAÑOL" tvg-logo="", RT EN ESPAÑOL | Rusia
+http://177.10.184.193:8000/play/a0ek/index.m3u8
+
 
 
 
@@ -636,580 +1688,19 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cool Channel" tvg-logo="https://i.imgur.com/MU4E0A7.png", Cool Channel | Tailandia
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#---O---
-#EXTINF:-1 tvg-id="197" tvg-name="Omega Radio" tvg-logo="https://cdn.m3u.cl/logo/1671_Omega_Radio.png", Omega Radio ✪ | CL
-https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="198" tvg-name="Opinion sur Series" tvg-logo="https://cdn.m3u.cl/logo/1618_Opinionsur_Series.png", Opinion sur Series ✪ | CL
-https://live20.bozztv.com/giatv/giatv-opinionsurs/opinionsurs/chunks.m3u8
-#EXTINF:-1 tvg-id="199" tvg-name="Onda Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1005_Onda_Radio_TV.png", Onda Radio TV ✪ | CL
-https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="200" tvg-name="Osorno TV+" tvg-logo="https://cdn.m3u.cl/logo/360_Osorno_TV_.png", Osorno TV+ | CL
-https://videostream.chileservidores.com:8081/osornotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OBS Gyeongin TV" tvg-logo="https://i.imgur.com/oWB3ApR.png", OBS Gyeongin TV | South Korea
-https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OUN" tvg-logo="https://i.imgur.com/7s6JtcU.png", OUN | South Korea
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#---P---
-#EXTINF:-1 tvg-id="201" tvg-name="PRIDEtv Latam" tvg-logo="https://neotv.cl/img/pridetv-512.png", PRIDEtv Latam | CL
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="202" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV | CL
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="204" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png", Parentesis TV | CL
-https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="205" tvg-name="Preludio TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1672_Preludio_TV_Senal_2.png", Preludio TV Señal 2 | CL
-https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="206" tvg-name="Tropical Ranchero" tvg-logo="https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png", Tropical Ranchero ✪ | CL
-https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="207" tvg-name="TeleZeta Tropical" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png", TeleZeta Tropical ✪ | CL
-https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="208" tvg-name="Poesia TV" tvg-logo="https://cdn.m3u.cl/logo/1630_Poesia_TV.png", Poesia TV ✪ | CL
-https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="209" tvg-name="Pichilemu TV" tvg-logo="https://i.imgur.com/eaJVCwM.png", Pichilemu TV | CL
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="210" tvg-name="Puranoticia TV" tvg-logo="https://i.imgur.com/NklUi6Y.png", Puranoticia TV | CL
-https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="211" tvg-name="Puerta Norte" tvg-logo="https://cdn.m3u.cl/logo/313_Puerta_Norte.png", Puerta Norte | CL
-https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="212" tvg-name="Plaza TV" tvg-logo="https://plazatv.cl/wp-content/uploads/2023/11/PlazaTV_logo_blanco@2x-1-1024x334.png", Plaza TV | CL
-https://live20.bozztv.com/akamaissh101/ssh101/plazatv2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="213" tvg-name="Primicia Vida Television" tvg-logo="https://cdn.m3u.cl/logo/1485_Primicia_Vida_Television.png", Primicia Vida Television | CL
-https://stmv5.voxtvhd.com.br/primiciavida/primiciavida/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="214" tvg-name="Pacifico Television" tvg-logo="https://pacificotelevisionhd.cl/wp-content/uploads/2024/03/pac.television-400-e1709484356445.jpg", Pacifico Television | CL
-https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="215" tvg-name="Pucon TV" tvg-logo="https://i.imgur.com/nO4cV3E.png", Pucon TV | CL
-https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="216" tvg-name="PinguinoTV" tvg-logo="https://cdn.m3u.cl/logo/373_PinguinoTV.png", PinguinoTV | CL
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="217" tvg-name="Patagonia Radio TV" tvg-logo="https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png", Patagonia Radio TV | CL
-https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="218" tvg-name="Preludio TV" tvg-logo="https://cdn.m3u.cl/logo/407_Preludio_TV.png", Preludio TV | CL
-https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="219" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Pauta TV | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="220" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png", Pudahuel FM | CL
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png", Pet Club TV | Hong Kong
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patepluma" tvg-logo="", Patepluma | Internacional
-http://177.10.184.193:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="", Pasiones | Internacional
-http://177.10.184.193:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portal Foxmix Chile" tvg-logo="https://graph.facebook.com/portalfoxmix/picture?width=800&height=800", Portal Foxmix Chile | CL
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#---Q---
-#EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="https://i.imgur.com/6TWUVrh.png", QVC Japan | Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#---R---
-#EXTINF:-1 tvg-id="221" tvg-name="RCN Novelas" tvg-logo="https://cdn.m3u.cl/logo/rcn_novelas.png", RCN Novelas | Internacional
-http://177.10.184.193:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="222" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="223" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="224" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="225" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV ✪ | CL
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="226" tvg-name="Radio Fin Del Mundo TV" tvg-logo="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png", Radio Fin Del Mundo TV ✪ | CL
-https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="227" tvg-name="Radio Puangue Curacavi" tvg-logo="https://cdn.m3u.cl/logo/1654_Radio_Puangue_Curacavi.png", Radio Puangue Curacavi | CL
-https://micanal.ovh/livestreams/242.7KDFJNBISVRZ.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="228" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV ✪ | CL
-https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="229" tvg-name="RitoqueFM TV" tvg-logo="https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png", RitoqueFM TV ✪ | CL
-https://v2.tustreaming.cl/unetev/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="230" tvg-name="Radio Amiga Vallenar" tvg-logo="https://cdn.m3u.cl/logo/1675_Radio_Amiga_Vallenar.png", Radio Amiga Vallenar ✪ | CL
-https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="231" tvg-name="Radio Zona" tvg-logo="https://radiozona.cl/envivo/wp-content/uploads/2025/02/IMG_0025-1536x1409.png", Radio Zona ✪ | CL
-https://live20.bozztv.com/giatv/giatv-venegas199220/venegas199220/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="232" tvg-name="Radio Labrar TV" tvg-logo="https://cdn.m3u.cl/logo/1487_Radio_Labrar_TV.png", Radio Labrar TV ✪ | CL
-https://live20.bozztv.com/akamaissh101/ssh101/radiolabrartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="233" tvg-name="Rec 13 TV" tvg-logo="https://i.imgur.com/kKfbjnj.png",Rec 13 TV | CL
-https://marine2.miplay.cl/rec/index.m3u8
-#EXTINF:-1 tvg-id="234" tvg-name="Radio Lado Oscuro TV" tvg-logo="https://cdn.m3u.cl/logo/895_Radio_Lado_Oscuro_TV.png", Radio Lado Oscuro TV | CL
-https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="235" tvg-name="Raices Arabes TV" tvg-logo="https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png", Raices Arabes TV | CL
-https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="236" tvg-name="RTC Television" tvg-logo="https://www.rtctelevision.cl/images/logortc.png", RTC Television | CL
-https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="237" tvg-name="Radio RT" tvg-logo="https://cdn.m3u.cl/logo/1500_Radio_RT.png", Radio RT | CL
-https://v1.tustreaming.cl:443/radiort/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="238" tvg-name="RialTv" tvg-logo="https://cdn.m3u.cl/logo/1599_RialTv.png", RialTv | CL
-https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="239" tvg-name="Radio Graneros TV" tvg-logo="https://cdn.m3u.cl/logo/1486_Radio_Graneros_TV.png", Radio Graneros TV | CL
-https://5ff3d9babae13.streamlock.net/rravdcnywy/rravdcnywy/playlist.m3u8
-#EXTINF:-1 tvg-id="240" tvg-name="RTV" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png", RTV | CL
-https://eu1.servers10.com:8081/8162/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="241" tvg-name="Región Televisión Ñuble" tvg-logo="https://canalrtv.cl/img/face.png", Región Televisión Ñuble | CL
-https://paneltv.online:1936/canalrtv/canalrtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="242" tvg-name="Red Vision Television" tvg-logo="https://cdn.m3u.cl/logo/1609_Red_Vision_Television.png", Red Vision Television | CL
-https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="243" tvg-name="Rocco TV 4" tvg-logo="https://cdn.m3u.cl/logo/367_Rocco_TV_4.png", Rocco TV 4 | CL
-https://v2.tustreaming.cl/roccotv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="244" tvg-name="RadioBaezaTV" tvg-logo="https://cdn.m3u.cl/logo/892_RadioBaezaTV.png", RadioBaezaTV | CL
-https://panel.tvstream.cl:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="245" tvg-name="Radio Acogida" tvg-logo="https://cdn.m3u.cl/logo/1389_Radio_Acogida.png", Radio Acogida | CL
-https://videostream.chileservidores.com:8081/chiloe3/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="246" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png", Ritmo Top Latino | CL
-https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/chunklist_w1111145369.m3u8
-#EXTINF:-1 tvg-id="247" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png", Red Circle | CL
-https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="248" tvg-name="Radio Rosa FM" tvg-logo="https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png", Radio Rosa FM | CL
-https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="249" tvg-name="Radio Video Mix" tvg-logo="https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png", Radio Video Mix | CL
-https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="250" tvg-name="Radio Bienvenida FM" tvg-logo="https://cdn.m3u.cl/logo/1463_Radio_Bienvenida_FM.png", Radio Bienvenida FM | CL
-https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="251" tvg-name="Radio UC" tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png", Radio UC | CL
-https://stmv5.voxtvhd.com.br/radiouc/radiouc/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="252" tvg-name="Radio Ritmo FM" tvg-logo="https://i.imgur.com/qU3E0kX.png", Radio Ritmo FM | CL
-https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="253" tvg-name="Radio Magallanes" tvg-logo="	https://www.radiomagallanes.cl/images/logo.jpg", Radio Magallanes | CL
-https://live20.bozztv.com/akamaissh101/ssh101/radiomagallanes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="254" tvg-name="Radio Maqui" tvg-logo="https://cdn.m3u.cl/logo/1134_Radio_Maqui.png", Radio Maqui | CL
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="255" tvg-name="Radio Popular Coihueco" tvg-logo="https://cdn.m3u.cl/logo/1122_Radio_Popular_Coihueco.png", Radio Popular Coihueco | CL
-https://tv.arkeo.cl:19360/8052/8052.m3u8
-#EXTINF:-1 tvg-id="256" tvg-name="Red Fueguina Radio" tvg-logo="https://cdn.m3u.cl/logo/400_Red_Fueguina_Radio.png", Red Fueguina Radio | CL
-https://stmv5.voxtvhd.com.br/redfueguina/redfueguina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="257" tvg-name="Radio Universal" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png", Radio Universal | CL
-https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="258" tvg-name="Radio Frecuencia Uno" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png", Radio Frecuencia Uno | CL
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="259" tvg-name="Radio Presidente Ibañez" tvg-logo="https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png", Radio Presidente Ibañez | CL
-https://ibanez.servercl.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="260" tvg-name="Radio Portales" tvg-logo="https://cdn.m3u.cl/logo/420_Radio_Portales.png", Radio Portales | CL
-https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="261" tvg-name="Radio Navarino" tvg-logo="https://cdn.m3u.cl/logo/1538_Radio_Navarino.png", Radio Navarino | CL
-https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="262" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png", Radio Zona 90.3 | CL
-https://live.tvcontrolcp.com:8081/radiozona/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="263" tvg-name="Radio Hoy" tvg-logo="https://cdn.m3u.cl/logo/380_Radio_Hoy.png", Radio Hoy | CL
-https://panel.host-live.com:19360/8146/8146.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="264" tvg-name="Radio Genial TV" tvg-logo="https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png", Radio Genial TV | CL
-https://v1.tustreaming.cl:443/genialtv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="265" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png", Radio Fiessta | CL
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="266" tvg-name="Radio Panoramica" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png", Radio Panoramica | CL
-https://v2.tustreaming.cl:/alingeproducciones/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="267" tvg-name="Radio Favorita" tvg-logo="https://cdn.m3u.cl/logo/417_Radio_Favorita.png", Radio Favorita | CL
-https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="268" tvg-name="Radio Fantasia TV" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV | CL
-https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="269" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila TV | CL
-https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="270" tvg-name="Revolviendola Radio" tvg-logo="https://cdn.m3u.cl/logo/1639_Revolviendola_Radio.png", Revolviendola Radio | CL
-https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="271" tvg-name="Radio Romantica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png", Radio Romantica | CL
-https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="271" tvg-name="Radio Romantica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg", Radio Romantica TV | CL
-https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
-#EXTINF:-1 tvg-id="272" tvg-name="Radio La Señal" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png", Radio La Señal | CL
-https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="273" tvg-name="Radio Ancoa TV" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png", Radio Ancoa TV | CL
-https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="274" tvg-name="Radio Imagen 106.5" tvg-logo="https://cdn.m3u.cl/logo/1565_Radio_Imagen_106_5.png", Radio Imagen 106.5 | CL
-https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="275" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png", Radioactiva TV | CL
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="276" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png", Radio Infinita | CL
-https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="277" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png", Radio Agricultura | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="278" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png", Radio Agricultura 2 | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:-1 tvg-id="279" tvg-name="Restaurando Vidas TV" tvg-logo="https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png", Restaurando Vidas TV | CL
-https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="280" tvg-name="Radio Vida Curico" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png", Radio Vida Curico | CL
-https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="RUTC TV" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg", RUTC TV | South Korea
-http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT EN ESPAÑOL" tvg-logo="", RT EN ESPAÑOL | Internacioanl
-http://177.10.184.193:8000/play/a0ek/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" tvg-logo="", RHEMA TV | Internacioanl
-http://177.10.184.193:8000/play/a05y/index.m3u8
-#---S---
-#EXTINF:-1 tvg-id="281" tvg-name="Sony" tvg-logo="", Sony | Internacioanl
-http://177.10.184.193:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="282" tvg-name="Sony Movies " tvg-logo="", Sony Movies | Internacioanl
-http://177.10.184.193:8000/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-id="283" tvg-name="Space" tvg-logo="", Space
-http://177.10.184.193:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Star TVE | Internacioanl
-http://177.10.184.193:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-id="285" tvg-name="Suyai TV" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png", Suyai TV ✪ | CL
-https://signal.suyaitv.cl/live/36/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96
-#EXTINF:-1 tvg-id="286" tvg-name="Suyai Radio" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png", Suyai Radio | CL
-https://signal.suyaitv.cl/live/37/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96
-#EXTINF:-1 tvg-id="287" tvg-name="STGO.TV" tvg-logo="https://i.imgur.com/VrqjFUf.png", STGO.TV | CL
-https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
-#EXTINF:-1 tvg-id="288" tvg-name="Señal Mediabanco" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png", Señal Mediabanco | CL
-https://scl.edge.grupoz.cl/mediabanco_prueba/live/playlist.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="Somos TV" tvg-logo="https://somostv.cl/wp-content/uploads/2024/09/somostv-log-top.png", Somos TV | CL
-https://5ff3d9babae13.streamlock.net:443/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="290" tvg-name="Sextavision" tvg-logo="https://i.imgur.com/mwUZBU9.png", Sextavision | CL
-https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="291" tvg-name="Santa Cruz HD" tvg-logo="https://cdn.m3u.cl/logo/1607_Santa_Cruz_HD.png", Santa Cruz HD | CL
-https://eu1.servers10.com:8081/8378/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="292" tvg-name="Supersonika TV" tvg-logo="https://cdn.m3u.cl/logo/349_Supersonika_TV.png", Supersonika TV | CL
-https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="293" tvg-name="San Pedro Conecta" tvg-logo="https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png", San Pedro Conecta | CL
-https://stmv5.voxtvhd.com.br/sanpedroconectatv/sanpedroconectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="294" tvg-name="Santa Maria TV" tvg-logo="https://i.imgur.com/SnbGpoK.png", Santa Maria TV | CL
-https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="295" tvg-name="Soberania Radio" tvg-logo="https://cdn.m3u.cl/logo/370_Soberania_Radio.png?rand=gno0eilDum", Soberania Radio | CL
-https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="296" tvg-name="Sur TV" tvg-logo="https://i.imgur.com/wDCqoor.png", Sur TV | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="297" tvg-name="Solobailalo TV" tvg-logo="https://i.imgur.com/SImJE7c.png", Solobailalo TV | CL
-https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="298" tvg-name="Santa Cruz FM" tvg-logo="https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png", Santa Cruz FM | CL
-https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="299" tvg-name="Sabor TV" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png", Sabor TV | CL
-https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="300" tvg-name="Sabrosona TV" tvg-logo="https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png", Sabrosona TV | CL
-https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="SBS G1" tvg-logo="https://i.imgur.com/ABdmZMc.png", SBS G1 | South Korea
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBS KBC" tvg-logo="https://i.imgur.com/Srsw4Mi.png", SBS KBC | South Korea
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBS UBC" tvg-logo="https://i.imgur.com/BBCoqIf.png", SBS UBC | South Korea
-https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBS JTV" tvg-logo="https://i.imgur.com/byss0Ld.png", SBS JTV | South Korea
-http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBS JIBS" tvg-logo="https://i.imgur.com/iAz0Psw.png", SBS JIBS | South Korea
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shinsegae Shopping TV" tvg-logo="https://i.imgur.com/Hq3yjqA.png", Shinsegae Shopping TV | South Korea
-https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shopping NT" tvg-logo="https://i.imgur.com/BgbJp5X.png", Shopping NT | South Korea
-https://live.shoppingntmall.com/live/10011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.postimg.cc/wMqPSBfX/shopchannel.png", Shop Channel | Japan
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="", Sun Channel | Internacional
-http://177.10.184.193:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sembrador" tvg-logo="", Sembrador | Internacional
-http://177.10.184.193:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUYAPA TV" tvg-logo="", SUYAPA TV | Internacional
-http://177.10.184.193:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SULA TV" tvg-logo="", SULA TV | Internacional
-http://177.10.184.193:8000/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SULA TV" tvg-logo="", SULA TV | Internacional
-http://177.10.184.193:8000/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="", STAR CHANNEL | Internacional
-http://177.10.184.193:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST VISION" tvg-logo="", ST VISION | Internacional
-http://177.10.184.193:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LA LIGA" tvg-logo="", SKY SPORT LA LIGA | Internacional
-http://177.10.184.193:8000/play/a0eh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" tvg-logo="", SEMILLITAS | Internacional
-http://177.10.184.193:8000/play/a03g/index.m3u8
-#---T---
-#EXTINF:-1 tvg-id="301" tvg-name="Teen Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg", Teen Nick | Internacional
-http://38.224.230.122:8000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-id="302" tvg-name="TNT Novelas" tvg-logo="", TNT Novelas | Internacional
-http://38.7.204.232:8010/play/a2n7/index.m3u8
-#EXTINF:-1 tvg-id="303" tvg-name="TNT" tvg-logo="", TNT | Internacional
-http://8.243.64.201:2025/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="TNT Sports" tvg-logo="", TNT Sports | Internacional
-http://45.4.1.130:5783/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="305" tvg-name="TNT Sports Premium" tvg-logo="", TNT Sports Premium | Internacional
-http://177.234.230.206:8011/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="306" tvg-name="TNT Series" tvg-logo="", TNT Novelas | Internacional
-http://177.10.184.193:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="307" tvg-name="TCM" tvg-logo="", TCM | Internacional
-http://177.10.184.193:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="TVE Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_TVE_2021.svg", TVE Europa | Internacional
-http://177.10.184.193:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="309" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN | CL
-http://190.151.80.242:9990/play/a0kc/index.m3u8
-#EXTINF:-1 tvg-id="310" tvg-name="Telemundo" tvg-logo="", Telemundo | Internacional
-http://177.10.184.193:8000/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="311" tvg-name="TLC" tvg-logo="", TLC
-http://177.10.184.193:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="312" tvg-name="TyC Sports", TyC Sports | Internacional
-http://177.10.184.193:8000/play/a0e0/index.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="TV Bajo Cero" tvg-logo="https://cdn.m3u.cl/logo/1676_TV_Bajo_Cero.png", TV Bajo Cero ✪ | CL
-https://tv.arkeo.cl:1936/tvbajocero/tvbajocero/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314" tvg-name="TV+" tvg-logo="https://i.ibb.co/b25bhDc/TV-MAS-2.png", TV+ | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="315" tvg-name="TVN3" tvg-logo="https://i.imgur.com/9LEiQPJ.png", TVN3 | CL
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="316" tvg-name="T13" tvg-logo="https://i.imgur.com/2Vlkl2x.png", T13 | CL
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="317" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio ✪ | CL
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318" tvg-name="TVMas2" tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png", TVMas2 | CL
-https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319" tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/Zfe2f5j.png", 13 Cultura | CL
-https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png", 13 Cocina | CL
-https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png", 13 Pop | CL
-https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="322" tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/csBNi2L.png", 13 Teleseries | CL
-https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323" tvg-name="13 Festival" tvg-logo="https://i.imgur.com/Ymk6j5o.png", 13 Festival | CL
-https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324" tvg-name="13 Realities" tvg-logo="https://i.imgur.com/m0SuwMU.png", 13 Realities | CL
-https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="325" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes | CL
-https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="326" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png", 13 Internacional | CL
-https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Go" tvg-logo="https://i.imgur.com/8WJUbSD.png", 13 Go | CL
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="327" tvg-name="TVU" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png", TVU | CL
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="328" tvg-name="TV UCT" tvg-logo="https://i.imgur.com/tpI0WQH.png", TV UCT | CL
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="329" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/CNUZ6ig.png", TV Senado | CL
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="330" tvg-name="Tevex" tvg-logo="https://i.imgur.com/FnInQRd.png", Tevex | CL
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="331" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png", TV Salud | CL
-https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="332" tvg-name="TurnoEnVivo" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png", TurnoEnVivo | CL
-https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="334" tvg-name="TV y TV" tvg-logo="https://cdn.m3u.cl/logo/1416_TV_y_TV.png", TV y TV | CL
-https://cloudpro.servidoresdestream.com:8081/8014/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="335" tvg-name="ThemaTV" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png", ThemaTV | CL
-https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="336" tvg-name="TV Elqui" tvg-logo="https://cdn.m3u.cl/logo/329_TV_Elqui.png", TV Elqui | CL
-https://panel.tvstream.cl:1936/campu/campu/chunklist_w1445673458.m3u8
-#EXTINF:-1 tvg-id="337" tvg-name="TV Quinta Region" tvg-logo="https://cdn.m3u.cl/logo/854_TV_Quinta_Region.png", TV Quinta Region | CL
-https://stmv5.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="338" tvg-name="TVR" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png", TVR | CL
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="339" tvg-name="Tendencias Prime" tvg-logo="https://cdn.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime | CL
-https://v4.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="340" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png", Telecanal Santa Cruz | CL
-https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="341" tvg-name="TVO San Vicente" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png", TVO San Vicente | CL
-https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="342" tvg-name="TVR Canal 11" tvg-logo="https://cdn.m3u.cl/logo/78_TVR_Canal_11.png", TVR Canal 11 | CL
-https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="343" tvg-name="TV 5 Linares" tvg-logo="https://cdn.m3u.cl/logo/80_TV_5_Linares.png", TV 5 Linares | CL
-https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="344" tvg-name="Telecauquenes" tvg-logo="https://cdn.m3u.cl/logo/1302_Telecauquenes.png", Telecauquenes | CL
-https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="345" tvg-name="Teleangol Radio" tvg-logo="https://cdn.m3u.cl/logo/82_Teleangol_Radio.png", Teleangol Radio | CL
-https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="346" tvg-name="Temuco TV" tvg-logo="https://cdn.m3u.cl/logo/357_Temuco_TV.png", Temuco TV | CL
-https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="347" tvg-name="TecTV" tvg-logo="https://cdn.m3u.cl/logo/358_TecTV.png", TecTV | CL
-https://tectv.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="348" tvg-name="TV Canal 5" tvg-logo="https://cdn.m3u.cl/logo/1469_TV_Canal_5.png", TV Canal 5 | CL
-https://vdochile.com:3317/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="349" tvg-name="TVM" tvg-logo="https://cdn.m3u.cl/logo/1293_TVM.png", TVM | CL
-https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="350" tvg-name="T-Vinet" tvg-logo="https://i.imgur.com/KisHIpA.png", T-Vinet | CL
-https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="351" tvg-name="TV Chile" tvg-logo="https://i.imgur.com/oYFto0V.png", TV Chile | CL
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="352" tvg-name="Teletrak" tvg-logo="https://i.imgur.com/NoJvlig.png", Teletrak | CL
-https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
-#EXTINF:-1 tvg-id="353" tvg-name="TV Turf" tvg-logo="https://i.imgur.com/TwIe4lK.png", TV Turf | CL
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
-#EXTINF:-1 tvg-id="354" tvg-name="TV vconline.cl" tvg-logo="https://i.imgur.com/VlKl2VB.png", TV vconline.cl | CL
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="355" tvg-name="Top New Radio" tvg-logo="https://cdn.m3u.cl/logo/973_Top_New_Radio.png", Top New Radio | CL
-https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="356" tvg-name="Tributo Valentina" tvg-logo="https://cdn.m3u.cl/logo/786_Tributo_Valentina.png", Tributo Valentina | CL
-https://vdochile.com:3795/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="357" tvg-name="TNE" tvg-logo="https://i.imgur.com/8QbvXva.png", TNE | CL
-https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="358" tvg-name="Televida HD" tvg-logo="https://i.imgur.com/bmNA8hq.png", Televida HD | CL
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TBS Seoul" tvg-logo="https://i.imgur.com/iOnWS6V.png", TBS Seoul | South Korea
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Chosun 2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png", TV Chosun 2 | South Korea
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-logo="https://i.imgur.com/62EwaCG.png", TV Chosun | South Korea
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13 Siam Thai" tvg-logo="https://i.imgur.com/FvEp1S2.png", 13 Siam Thai | Tailandia
 https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleRadyo" tvg-logo="", TeleRadyo | Filipinas
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="", Tru TV | Internacional
-http://177.10.184.193:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="", Tooncast | Internacional
-http://177.10.184.193:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports" tvg-logo="", Tigo Sports | Internacional
-http://177.10.184.193:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" tvg-logo="", Teleuniverso - RD | Internacional
-http://177.10.184.193:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="", TUDN USA | Internacional
-http://177.10.184.193:8000/play/a0ft/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSI" tvg-logo="", TSI | Internacional
-http://177.10.184.193:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="", TELENOVELAS | Internacional
-http://177.10.184.193:8000/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7 Y 4" tvg-logo="", TELECADENA 7 Y 4 | Internacional
-http://177.10.184.193:8000/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE PROGRESO- 68" tvg-logo="", TELE PROGRESO- 68 | Internacional
-http://177.10.184.193:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Costa" tvg-logo="https://tvcosta.cl/wp-content/uploads/2022/12/TV-Costa.jpg", TV Costa | CL
-https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Universidad" tvg-logo="", TV Universidad | Argentina
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Solidaria" tvg-logo="", TV Solidaria | Argentina
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Maná Argentina" tvg-logo="", TV Maná Argentina NO 24/7 | Argentina
-https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord Corrientes" tvg-logo="", Telenord Corrientes NO 24/7 | Argentina
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="", Telemax | Argentina
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#---U---
-#EXTINF:-1 tvg-id="359" tvg-name="USA" tvg-logo="", USA SD
-http://103.111.40.242:9999/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="Universal" tvg-logo="", Universal | Internacional
-http://177.10.184.193:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="361" tvg-name="Universal Cinema" tvg-logo="", Universal Cinema | Internacional
-http://177.10.184.193:8000/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="362" tvg-name="Universal Comedy" tvg-logo="", Universal Comedy | Internacional
-http://177.10.184.193:8000/play/a09x/index.m3u8
-#EXTINF:-1 tvg-id="363" tvg-name="Universal Premiere" tvg-logo="", Universal Premiere | Internacional
-http://177.10.184.193:8000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="364" tvg-name="Universal Studio" tvg-logo="", Universal Studio | Internacional
-http://38.224.230.122:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-id="365" tvg-name="Universal CRIME" tvg-logo="", Universal CRIME | Internacional
-http://177.10.184.193:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-id="366" tvg-name="Universal REALITY" tvg-logo="", Universal REALITY | Internacional
-http://177.10.184.193:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="367" tvg-name="Unetev" tvg-logo="https://cdn.m3u.cl/logo/1314_Unetev.png", Unetev | CL
-https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="368" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV | CL
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="369" tvg-name="UCV" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png", UCV | CL
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="370" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 | CL
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="371" tvg-name="UTalcaTV" tvg-logo="https://i.imgur.com/LvzLg33.png", UTalcaTV | CL
-https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="372" tvg-name="Universidad Autonoma TV" tvg-logo="https://i.imgur.com/BdZGS66.png", Universidad Autonoma TV | CL
-https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="373" tvg-name="Ufrovision" tvg-logo="https://cdn.m3u.cl/logo/57_Ufrovision.png", Ufrovision | CL
-https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="374" tvg-name="UMAG TV" tvg-logo="https://cdn.m3u.cl/logo/60_UMAG_TV.png", UMAG TV | CL
-https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="375" tvg-name="UMAG TV 2" tvg-logo="https://cdn.m3u.cl/logo/61_UMAG_TV_2.png", UMAG TV 2 | CL
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="376" tvg-name="UesTV" tvg-logo="https://i.imgur.com/tAyiNZV.png", UesTV | CL
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="377" tvg-name="UTV San Clemente" tvg-logo="https://i.imgur.com/ZJNSpfZ.png", UTV San Clemente | CL
-https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="378" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ | CL
-https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="U Lagos TV" tvg-logo="https://i.imgur.com/HxUZseV.png", U Lagos TV | CL
-http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal VTV HND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png", Canal VTV HND | Internacional
-http://177.10.184.193:8000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="", Univision | Internacional
-http://177.10.184.193:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNE TV" tvg-logo="", UNE TV | Internacional
-http://177.10.184.193:8000/play/a0fg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="U de Chile TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/UChile_TV_logo_2020.png", U de Chile TV | CL
-https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unetev Talagante" tvg-logo="https://www.unetev.cl/wp-content/uploads/2023/08/LOGO1-1.png", Unetev Talagante | CL
-https://tv.arkeo.cl:1936/unetev/unetev/chunklist_w1640231951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Urban Mix" tvg-logo="", Urban Mix | Argentina
-https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-logo="", Uniteve no 24/7 | Argentina
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unife TV" tvg-logo="", Unife TV | Argentina
-https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-#---V---
-#EXTINF:-1 tvg-id="379" tvg-name="ViaX" tvg-logo="https://cdn.m3u.cl/logo/viax.png", ViaX
-http://45.4.1.130:5783/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="380" tvg-name="VClassicTV" tvg-logo="https://i.imgur.com/WIACJSy.png", VClassicTV ✪ | CL
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="381" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png", VClassicTV Tropical ✪ | CL
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="382" tvg-name="Verso TV" tvg-logo="https://cdn.m3u.cl/logo/1668_Verso_TV.png", Verso TV ✪ | CL
-https://verso.moxstream.live/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-#EXTINF:-1 tvg-id="383" tvg-name="VTV" tvg-logo="https://i.imgur.com/0bFVvKj.png", VTV | CL
-https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="384" tvg-name="Vida Nueva TV" tvg-logo="https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png", Vida Nueva TV | CL
-https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="385" tvg-name="VoxPopuli Chile" tvg-logo="https://i.imgur.com/BYBMuhf.png", VoxPopuli Chile | CL
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="386" tvg-name="Vision Plus TV" tvg-logo="https://i.imgur.com/mpNcG5F.png", Vision Plus TV | CL
-https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="387" tvg-name="VLTV" tvg-logo="https://cdn.m3u.cl/logo/343_VLTV.png", VLTV | CL
-https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="388" tvg-name="Vision TV" tvg-logo="https://cdn.m3u.cl/logo/361_Vision_TV.png", Vision TV | CL
-https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="389" tvg-name="Valparaiso Sporting" tvg-logo="https://cdn.m3u.cl/logo/375_Valparaiso_Sporting.png", Valparaiso Sporting | CL
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="VerTV (VTV)" tvg-logo="", VerTV (VTV) NO 24/7 | Argentina
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#---W---
-#EXTINF:-1 tvg-id="390" tvg-name="Warner Channel" tvg-logo="", Warner Channel
-http://186.148.178.10:9092/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="391" tvg-name="Weed Radio" tvg-logo="https://cdn.m3u.cl/logo/1577_Weed_Radio.png", Weed Radio | CL
-https://tv.arkeo.cl:1936/weedradiocl/weedradiocl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="392" tvg-name="WF9" tvg-logo="https://cdn.m3u.cl/logo/1474_WF9.png", WF9 | CL
-https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="W Shopping" tvg-logo="https://i.imgur.com/hfXjVJd.png", W Shopping | South Korea
-https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WOWOW Live" tvg-logo="https://i.imgur.com/jPAYT5F.png", WOWOW Live | Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="" tvg-name="Wapp TV" tvg-logo="https://graph.facebook.com/wapptv.cl/picture?width=800&height=800", Wapp TV | CL
-https://stream.wapptv.cl/video/tracks-v1a1/mono.ts.m3u8
-#---X---
-#EXTINF:-1 tvg-id="" tvg-name="Xtrema Terror" tvg-logo="", Xtrema Terror | Argentina
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xtrema Cine Clasico" tvg-logo="", Xtrema Cine Clasico | Argentina
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xtrema Cartoons" tvg-logo="", Xtrema Cartoons | Argentina
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xtrema Accion" tvg-logo="", Xtrema Accion | Argentina
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X Level Media" tvg-logo="", X Level Media | Argentina
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#---Y---
+
+
+
+#---VENEZUELA 190---
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="", Sun Channel | Venezuela
+http://177.10.184.193:8000/play/a04d/index.m3u8
+
+
+
+
+#---Zimbabue 195---
 #EXTINF:-1 tvg-id="" tvg-name="Yadah TV" tvg-logo="", Yadah TV | Zimbabwe
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
-#---Z---
-#EXTINF:-1 tvg-id="393" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime ✪ | CL
-https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="394" tvg-name="Zoom Tecnologico Plus" tvg-logo="https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png", Zoom Tecnologico Plus ✪ | CL
-https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="395" tvg-name="Zona Latina" tvg-logo="https://cdn.m3u.cl/logo/zonalatina.png", Zona Latina
-http://38.224.230.122:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="396" tvg-name="Zona Play Radio" tvg-logo="https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png", Zona Play Radio | CL
-https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL
